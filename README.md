@@ -6,6 +6,8 @@ Hanzi App is designed to help beginners and intermediate learners master Chinese
 
 ---
 
+![Navigation](docs/navigation.gif)
+
 ## Features
 
 ### 📖 Learn Chinese Vocabulary
