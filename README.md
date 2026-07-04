@@ -7,7 +7,7 @@ Hanzi App is designed to help beginners and intermediate learners master Chinese
 ---
 
 <p align="center">
-  <img src="docs/demo.gif" alt="Hanzi App Demo" height="600">
+  <img src="docs/demo.gif" alt="Hanzi App Demo" height="700">
 </p>
 
 ## Features
