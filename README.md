@@ -4,8 +4,6 @@ A modern application for learning Mandarin Chinese through active recall, readin
 
 Hanzi App is designed to help beginners and intermediate learners master Chinese characters, vocabulary and short texts with an intuitive and distraction-free interface.
 
-![Screenshot](docs/screenshot.png)
-
 ---
 
 ## Features
