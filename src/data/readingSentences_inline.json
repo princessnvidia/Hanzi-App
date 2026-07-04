@@ -1,0 +1,261 @@
+{
+  "debutant": [
+    {
+      "id": "r-d-001",
+      "before": "我爱喝",
+      "after": "，也爱看书。",
+      "answer": "水",
+      "pinyin": "shuǐ"
+    },
+    {
+      "id": "r-d-002",
+      "before": "你是好",
+      "after": "，我也很好。",
+      "answer": "人",
+      "pinyin": "rén"
+    },
+    {
+      "id": "r-d-003",
+      "before": "她看",
+      "after": "，他听音乐。",
+      "answer": "书",
+      "pinyin": "shū"
+    },
+    {
+      "id": "r-d-004",
+      "before": "小猫喝",
+      "after": "，小狗吃东西。",
+      "answer": "水",
+      "pinyin": "shuǐ"
+    },
+    {
+      "id": "r-d-005",
+      "before": "我不吃肉，我喝",
+      "after": "。",
+      "answer": "茶",
+      "pinyin": "chá"
+    }
+  ],
+  "intermediaire": [
+    {
+      "id": "r-i-001",
+      "before": "今天学生在学校学习",
+      "after": "，老师也在教室工作。",
+      "answer": "汉语",
+      "pinyin": "Hànyǔ"
+    },
+    {
+      "id": "r-i-002",
+      "before": "现在我用电脑学习，也用",
+      "after": "听中文。",
+      "answer": "手机",
+      "pinyin": "shǒujī"
+    },
+    {
+      "id": "r-i-003",
+      "before": "明天朋友来我家，我们一起喝茶和看",
+      "after": "。",
+      "answer": "电影",
+      "pinyin": "diànyǐng"
+    },
+    {
+      "id": "r-i-004",
+      "before": "医生问我今天哪里不舒服，我说没有",
+      "after": "。",
+      "answer": "问题",
+      "pinyin": "wèntí"
+    },
+    {
+      "id": "r-i-005",
+      "before": "老师问谁会说中文，那个法国学生说他会说",
+      "after": "。",
+      "answer": "汉语",
+      "pinyin": "Hànyǔ"
+    }
+  ],
+  "avance": [
+    {
+      "id": "r-a-001",
+      "before": "我觉得学习中文很重要，但是有时候这个问题比较",
+      "after": "。",
+      "answer": "困难",
+      "pinyin": "kùnnan"
+    },
+    {
+      "id": "r-a-002",
+      "before": "因为今天没有时间，所以我准备明天继续",
+      "after": "。",
+      "answer": "学习",
+      "pinyin": "xuéxí"
+    },
+    {
+      "id": "r-a-003",
+      "before": "他已经知道这个地方在哪里，但是还是需要一点",
+      "after": "。",
+      "answer": "时间",
+      "pinyin": "shíjiān"
+    },
+    {
+      "id": "r-a-004",
+      "before": "她喜欢漂亮的城市，也喜欢安静的",
+      "after": "。",
+      "answer": "地方",
+      "pinyin": "dìfang"
+    },
+    {
+      "id": "r-a-005",
+      "before": "我们应该认真准备，因为这个工作很",
+      "after": "。",
+      "answer": "重要",
+      "pinyin": "zhòngyào"
+    }
+  ],
+  "pro": [
+    {
+      "id": "r-p-001",
+      "before": "这个项目需要好的计划、清楚的目标和很多",
+      "after": "。",
+      "answer": "合作",
+      "pinyin": "hézuò"
+    },
+    {
+      "id": "r-p-002",
+      "before": "为了提高效率，公司决定改变服务和产品的",
+      "after": "。",
+      "answer": "质量",
+      "pinyin": "zhìliàng"
+    },
+    {
+      "id": "r-p-003",
+      "before": "国际交流可以帮助学生理解不同国家的",
+      "after": "。",
+      "answer": "文化",
+      "pinyin": "wénhuà"
+    },
+    {
+      "id": "r-p-004",
+      "before": "如果市场价格太高，客户可能选择别的",
+      "after": "。",
+      "answer": "产品",
+      "pinyin": "chǎnpǐn"
+    },
+    {
+      "id": "r-p-005",
+      "before": "这个办法很简单，但是对生活有很大的",
+      "after": "。",
+      "answer": "帮助",
+      "pinyin": "bāngzhù"
+    }
+  ],
+  "expert": [
+    {
+      "id": "r-ex-001",
+      "before": "社会发展带来新的机会，也带来新的",
+      "after": "。",
+      "answer": "挑战",
+      "pinyin": "tiǎozhàn"
+    },
+    {
+      "id": "r-ex-002",
+      "before": "媒体传播信息，公众需要认真分析这些",
+      "after": "。",
+      "answer": "数据",
+      "pinyin": "shùjù"
+    },
+    {
+      "id": "r-ex-003",
+      "before": "教育和知识会影响一个人的态度和",
+      "after": "。",
+      "answer": "行为",
+      "pinyin": "xíngwéi"
+    },
+    {
+      "id": "r-ex-004",
+      "before": "现代社会需要法律、规则和稳定的",
+      "after": "。",
+      "answer": "制度",
+      "pinyin": "zhìdù"
+    },
+    {
+      "id": "r-ex-005",
+      "before": "科学技术发展很快，也会改变全球经济的",
+      "after": "。",
+      "answer": "趋势",
+      "pinyin": "qūshì"
+    }
+  ],
+  "genius": [
+    {
+      "id": "r-g-001",
+      "before": "哲学常常讨论意识、存在、真理和宇宙的",
+      "after": "。",
+      "answer": "意义",
+      "pinyin": "yìyì"
+    },
+    {
+      "id": "r-g-002",
+      "before": "一个复杂系统里面，结构、模式和因果关系都很",
+      "after": "。",
+      "answer": "重要",
+      "pinyin": "zhòngyào"
+    },
+    {
+      "id": "r-g-003",
+      "before": "我们通过观察、推理和验证来理解自然的",
+      "after": "。",
+      "answer": "规律",
+      "pinyin": "guīlǜ"
+    },
+    {
+      "id": "r-g-004",
+      "before": "抽象概念有时候很难，但是可以帮助我们提高",
+      "after": "。",
+      "answer": "认知",
+      "pinyin": "rènzhī"
+    },
+    {
+      "id": "r-g-005",
+      "before": "理性和感性之间的矛盾，也许是一种深层的",
+      "after": "。",
+      "answer": "结构",
+      "pinyin": "jiégòu"
+    }
+  ],
+  "swag": [
+    {
+      "id": "r-s-001",
+      "before": "在梦境里，意识流、象征主义和超现实形成一种神秘的",
+      "after": "。",
+      "answer": "共鸣",
+      "pinyin": "gòngmíng"
+    },
+    {
+      "id": "r-s-002",
+      "before": "道、阴阳、气和无为都可以帮助人理解自然的",
+      "after": "。",
+      "answer": "秩序",
+      "pinyin": "zhìxù"
+    },
+    {
+      "id": "r-s-003",
+      "before": "混沌和秩序之间的边界，有时候像一个无限的",
+      "after": "。",
+      "answer": "循环",
+      "pinyin": "xúnhuán"
+    },
+    {
+      "id": "r-s-004",
+      "before": "禅定之后突然出现顿悟，像是一次内在的",
+      "after": "。",
+      "answer": "觉醒",
+      "pinyin": "juéxǐng"
+    },
+    {
+      "id": "r-s-005",
+      "before": "宇宙、能量、频率和维度在想象中产生奇怪的",
+      "after": "。",
+      "answer": "幻象",
+      "pinyin": "huànxiàng"
+    }
+  ]
+}

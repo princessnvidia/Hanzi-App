@@ -1,0 +1,4255 @@
+{
+  "debutant": {
+    "title": "第一章 白猫",
+    "series": "白猫",
+    "level": "debutant",
+    "lines": [
+      {
+        "id": "d-001",
+        "tokens": [
+          {
+            "hanzi": "今天",
+            "pinyin": "jīntiān",
+            "fr": "aujourd’hui",
+            "type": "new"
+          },
+          {
+            "hanzi": "很好",
+            "pinyin": "hěn hǎo",
+            "fr": "très bien",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "d-002",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "喝",
+            "pinyin": "hē",
+            "fr": "boire",
+            "type": "known",
+            "vocabId": "d-015"
+          },
+          {
+            "hanzi": "茶",
+            "pinyin": "chá",
+            "fr": "thé",
+            "type": "known",
+            "vocabId": "d-013"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "也",
+            "pinyin": "yě",
+            "fr": "aussi",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "看",
+            "pinyin": "kàn",
+            "fr": "lire/regarder",
+            "type": "known",
+            "vocabId": "d-016"
+          },
+          {
+            "hanzi": "书",
+            "pinyin": "shū",
+            "fr": "livre",
+            "type": "known",
+            "vocabId": "d-011"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "d-003",
+        "tokens": [
+          {
+            "hanzi": "一只",
+            "pinyin": "yì zhī",
+            "fr": "un animal",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "小",
+            "pinyin": "xiǎo",
+            "fr": "petit",
+            "type": "known",
+            "vocabId": "d-019"
+          },
+          {
+            "hanzi": "猫",
+            "pinyin": "māo",
+            "fr": "chat",
+            "type": "known",
+            "vocabId": "d-009"
+          },
+          {
+            "hanzi": "来",
+            "pinyin": "lái",
+            "fr": "venir",
+            "type": "new"
+          },
+          {
+            "hanzi": "了",
+            "pinyin": "le",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "d-004",
+        "tokens": [
+          {
+            "hanzi": "它",
+            "pinyin": "tā",
+            "fr": "il/elle animal",
+            "type": "new"
+          },
+          {
+            "hanzi": "不",
+            "pinyin": "bù",
+            "fr": "ne pas",
+            "type": "known",
+            "vocabId": "d-006"
+          },
+          {
+            "hanzi": "大",
+            "pinyin": "dà",
+            "fr": "grand",
+            "type": "known",
+            "vocabId": "d-018"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "也",
+            "pinyin": "yě",
+            "fr": "aussi",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "不",
+            "pinyin": "bù",
+            "fr": "ne pas",
+            "type": "known",
+            "vocabId": "d-006"
+          },
+          {
+            "hanzi": "小",
+            "pinyin": "xiǎo",
+            "fr": "petit",
+            "type": "known",
+            "vocabId": "d-019"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "d-005",
+        "tokens": [
+          {
+            "hanzi": "猫",
+            "pinyin": "māo",
+            "fr": "chat",
+            "type": "known",
+            "vocabId": "d-009"
+          },
+          {
+            "hanzi": "看",
+            "pinyin": "kàn",
+            "fr": "regarder",
+            "type": "known",
+            "vocabId": "d-016"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "moi",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "也",
+            "pinyin": "yě",
+            "fr": "aussi",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "看",
+            "pinyin": "kàn",
+            "fr": "regarder",
+            "type": "known",
+            "vocabId": "d-016"
+          },
+          {
+            "hanzi": "猫",
+            "pinyin": "māo",
+            "fr": "chat",
+            "type": "known",
+            "vocabId": "d-009"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "d-006",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "说",
+            "pinyin": "shuō",
+            "fr": "dire",
+            "type": "new"
+          },
+          {
+            "hanzi": "：",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "“",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "你好",
+            "pinyin": "nǐ hǎo",
+            "fr": "bonjour",
+            "type": "new"
+          },
+          {
+            "hanzi": "。”",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "d-007",
+        "tokens": [
+          {
+            "hanzi": "猫",
+            "pinyin": "māo",
+            "fr": "chat",
+            "type": "known",
+            "vocabId": "d-009"
+          },
+          {
+            "hanzi": "听",
+            "pinyin": "tīng",
+            "fr": "écouter",
+            "type": "known",
+            "vocabId": "d-017"
+          },
+          {
+            "hanzi": "了",
+            "pinyin": "le",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "不",
+            "pinyin": "bù",
+            "fr": "ne pas",
+            "type": "known",
+            "vocabId": "d-006"
+          },
+          {
+            "hanzi": "走",
+            "pinyin": "zǒu",
+            "fr": "partir/marcher",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "d-008",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "给",
+            "pinyin": "gěi",
+            "fr": "donner",
+            "type": "new"
+          },
+          {
+            "hanzi": "它",
+            "pinyin": "tā",
+            "fr": "lui animal",
+            "type": "new"
+          },
+          {
+            "hanzi": "水",
+            "pinyin": "shuǐ",
+            "fr": "eau",
+            "type": "known",
+            "vocabId": "d-012"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "d-009",
+        "tokens": [
+          {
+            "hanzi": "它",
+            "pinyin": "tā",
+            "fr": "il/elle animal",
+            "type": "new"
+          },
+          {
+            "hanzi": "喝",
+            "pinyin": "hē",
+            "fr": "boire",
+            "type": "known",
+            "vocabId": "d-015"
+          },
+          {
+            "hanzi": "水",
+            "pinyin": "shuǐ",
+            "fr": "eau",
+            "type": "known",
+            "vocabId": "d-012"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "然后",
+            "pinyin": "ránhòu",
+            "fr": "ensuite",
+            "type": "new"
+          },
+          {
+            "hanzi": "坐下",
+            "pinyin": "zuò xià",
+            "fr": "s’asseoir",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "d-010",
+        "tokens": [
+          {
+            "hanzi": "今天",
+            "pinyin": "jīntiān",
+            "fr": "aujourd’hui",
+            "type": "new"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "有",
+            "pinyin": "yǒu",
+            "fr": "avoir",
+            "type": "new"
+          },
+          {
+            "hanzi": "一个",
+            "pinyin": "yí ge",
+            "fr": "un",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "新",
+            "pinyin": "xīn",
+            "fr": "nouveau",
+            "type": "new"
+          },
+          {
+            "hanzi": "朋友",
+            "pinyin": "péngyou",
+            "fr": "ami",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      }
+    ],
+    "translation": [
+      "Aujourd’hui est une très bonne journée.",
+      "Je bois du thé et je lis aussi un livre.",
+      "Un petit chat arrive.",
+      "Il n’est pas grand, mais il n’est pas petit non plus.",
+      "Le chat me regarde, et moi aussi je le regarde.",
+      "Je dis : « Bonjour. »",
+      "Le chat entend cela et ne part pas.",
+      "Je lui donne de l’eau.",
+      "Il boit l’eau, puis s’assoit.",
+      "Aujourd’hui, j’ai un nouvel ami."
+    ]
+  },
+  "intermediaire": {
+    "title": "第二章 新朋友",
+    "series": "白猫",
+    "level": "intermediaire",
+    "lines": [
+      {
+        "id": "i-001",
+        "tokens": [
+          {
+            "hanzi": "明天",
+            "pinyin": "míngtiān",
+            "fr": "demain",
+            "type": "known",
+            "vocabId": "i-016"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "去",
+            "pinyin": "qù",
+            "fr": "aller",
+            "type": "known",
+            "vocabId": "i-035"
+          },
+          {
+            "hanzi": "学校",
+            "pinyin": "xuéxiào",
+            "fr": "école",
+            "type": "known",
+            "vocabId": "i-003"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "i-002",
+        "tokens": [
+          {
+            "hanzi": "白猫",
+            "pinyin": "bái māo",
+            "fr": "chat blanc",
+            "type": "new"
+          },
+          {
+            "hanzi": "也",
+            "pinyin": "yě",
+            "fr": "aussi",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "来",
+            "pinyin": "lái",
+            "fr": "venir",
+            "type": "known",
+            "vocabId": "i-034"
+          },
+          {
+            "hanzi": "了",
+            "pinyin": "le",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "i-003",
+        "tokens": [
+          {
+            "hanzi": "它",
+            "pinyin": "tā",
+            "fr": "il/elle animal",
+            "type": "new"
+          },
+          {
+            "hanzi": "在",
+            "pinyin": "zài",
+            "fr": "à/dans",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "学校",
+            "pinyin": "xuéxiào",
+            "fr": "école",
+            "type": "known",
+            "vocabId": "i-003"
+          },
+          {
+            "hanzi": "门口",
+            "pinyin": "ménkǒu",
+            "fr": "entrée",
+            "type": "new"
+          },
+          {
+            "hanzi": "等",
+            "pinyin": "děng",
+            "fr": "attendre",
+            "type": "known",
+            "vocabId": "i-040"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "moi",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "i-004",
+        "tokens": [
+          {
+            "hanzi": "一个",
+            "pinyin": "yí ge",
+            "fr": "un",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "学生",
+            "pinyin": "xuéshēng",
+            "fr": "étudiant",
+            "type": "known",
+            "vocabId": "i-001"
+          },
+          {
+            "hanzi": "问",
+            "pinyin": "wèn",
+            "fr": "demander",
+            "type": "new"
+          },
+          {
+            "hanzi": "：",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "“",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "这是",
+            "pinyin": "zhè shì",
+            "fr": "c’est",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "你的",
+            "pinyin": "nǐ de",
+            "fr": "ton/ta",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "猫",
+            "pinyin": "māo",
+            "fr": "chat",
+            "type": "known",
+            "vocabId": "d-009"
+          },
+          {
+            "hanzi": "吗",
+            "pinyin": "ma",
+            "fr": "question",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "？”",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "i-005",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "说",
+            "pinyin": "shuō",
+            "fr": "dire",
+            "type": "new"
+          },
+          {
+            "hanzi": "：",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "“",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "不是",
+            "pinyin": "bú shì",
+            "fr": "ce n’est pas",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "但是",
+            "pinyin": "dànshì",
+            "fr": "mais",
+            "type": "new"
+          },
+          {
+            "hanzi": "它",
+            "pinyin": "tā",
+            "fr": "il/elle animal",
+            "type": "new"
+          },
+          {
+            "hanzi": "是",
+            "pinyin": "shì",
+            "fr": "être",
+            "type": "known",
+            "vocabId": "d-005"
+          },
+          {
+            "hanzi": "我的",
+            "pinyin": "wǒ de",
+            "fr": "mon/ma",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "朋友",
+            "pinyin": "péngyou",
+            "fr": "ami",
+            "type": "known",
+            "vocabId": "i-004"
+          },
+          {
+            "hanzi": "。”",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "i-006",
+        "tokens": [
+          {
+            "hanzi": "老师",
+            "pinyin": "lǎoshī",
+            "fr": "professeur",
+            "type": "known",
+            "vocabId": "i-002"
+          },
+          {
+            "hanzi": "看见",
+            "pinyin": "kànjiàn",
+            "fr": "voir",
+            "type": "new"
+          },
+          {
+            "hanzi": "白猫",
+            "pinyin": "bái māo",
+            "fr": "chat blanc",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "笑了",
+            "pinyin": "xiào le",
+            "fr": "a souri",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "i-007",
+        "tokens": [
+          {
+            "hanzi": "老师",
+            "pinyin": "lǎoshī",
+            "fr": "professeur",
+            "type": "known",
+            "vocabId": "i-002"
+          },
+          {
+            "hanzi": "说",
+            "pinyin": "shuō",
+            "fr": "dire",
+            "type": "new"
+          },
+          {
+            "hanzi": "：",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "“",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "它",
+            "pinyin": "tā",
+            "fr": "il/elle animal",
+            "type": "new"
+          },
+          {
+            "hanzi": "可以",
+            "pinyin": "kěyǐ",
+            "fr": "pouvoir",
+            "type": "new"
+          },
+          {
+            "hanzi": "在这里",
+            "pinyin": "zài zhèlǐ",
+            "fr": "ici",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "听课",
+            "pinyin": "tīng kè",
+            "fr": "écouter le cours",
+            "type": "new"
+          },
+          {
+            "hanzi": "。”",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "i-008",
+        "tokens": [
+          {
+            "hanzi": "今天",
+            "pinyin": "jīntiān",
+            "fr": "aujourd’hui",
+            "type": "known",
+            "vocabId": "i-015"
+          },
+          {
+            "hanzi": "我们",
+            "pinyin": "wǒmen",
+            "fr": "nous",
+            "type": "new"
+          },
+          {
+            "hanzi": "一起",
+            "pinyin": "yìqǐ",
+            "fr": "ensemble",
+            "type": "new"
+          },
+          {
+            "hanzi": "学习",
+            "pinyin": "xuéxí",
+            "fr": "étudier",
+            "type": "known",
+            "vocabId": "i-013"
+          },
+          {
+            "hanzi": "汉语",
+            "pinyin": "Hànyǔ",
+            "fr": "chinois",
+            "type": "known",
+            "vocabId": "i-007"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "i-009",
+        "tokens": [
+          {
+            "hanzi": "白猫",
+            "pinyin": "bái māo",
+            "fr": "chat blanc",
+            "type": "new"
+          },
+          {
+            "hanzi": "不",
+            "pinyin": "bù",
+            "fr": "ne pas",
+            "type": "known",
+            "vocabId": "d-006"
+          },
+          {
+            "hanzi": "说话",
+            "pinyin": "shuōhuà",
+            "fr": "parler",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "但是",
+            "pinyin": "dànshì",
+            "fr": "mais",
+            "type": "new"
+          },
+          {
+            "hanzi": "它",
+            "pinyin": "tā",
+            "fr": "il/elle animal",
+            "type": "new"
+          },
+          {
+            "hanzi": "听得很好",
+            "pinyin": "tīng de hěn hǎo",
+            "fr": "écoute très bien",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "i-010",
+        "tokens": [
+          {
+            "hanzi": "下课以后",
+            "pinyin": "xiàkè yǐhòu",
+            "fr": "après le cours",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "它",
+            "pinyin": "tā",
+            "fr": "il/elle animal",
+            "type": "new"
+          },
+          {
+            "hanzi": "跟",
+            "pinyin": "gēn",
+            "fr": "avec/suivre",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "moi",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "回家",
+            "pinyin": "huí jiā",
+            "fr": "rentrer",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      }
+    ],
+    "translation": [
+      "Demain, je vais à l’école.",
+      "Le chat blanc vient aussi.",
+      "Il m’attend à l’entrée de l’école.",
+      "Un étudiant demande : « C’est ton chat ? »",
+      "Je dis : « Non, mais c’est mon ami. »",
+      "Le professeur voit le chat blanc et sourit.",
+      "Le professeur dit : « Il peut écouter le cours ici. »",
+      "Aujourd’hui, nous étudions le chinois ensemble.",
+      "Le chat blanc ne parle pas, mais il écoute très bien.",
+      "Après le cours, il rentre à la maison avec moi."
+    ]
+  },
+  "avance": {
+    "title": "第三章 为什么它知道？",
+    "series": "白猫",
+    "level": "avance",
+    "lines": [
+      {
+        "id": "a-001",
+        "tokens": [
+          {
+            "hanzi": "最近",
+            "pinyin": "zuìjìn",
+            "fr": "récemment",
+            "type": "known",
+            "vocabId": "a-027"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "觉得",
+            "pinyin": "juéde",
+            "fr": "trouver que",
+            "type": "known",
+            "vocabId": "a-010"
+          },
+          {
+            "hanzi": "白猫",
+            "pinyin": "bái māo",
+            "fr": "chat blanc",
+            "type": "new"
+          },
+          {
+            "hanzi": "有点",
+            "pinyin": "yǒudiǎn",
+            "fr": "un peu",
+            "type": "new"
+          },
+          {
+            "hanzi": "奇怪",
+            "pinyin": "qíguài",
+            "fr": "étrange",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "a-002",
+        "tokens": [
+          {
+            "hanzi": "它",
+            "pinyin": "tā",
+            "fr": "il/elle animal",
+            "type": "new"
+          },
+          {
+            "hanzi": "好像",
+            "pinyin": "hǎoxiàng",
+            "fr": "sembler",
+            "type": "new"
+          },
+          {
+            "hanzi": "知道",
+            "pinyin": "zhīdào",
+            "fr": "savoir",
+            "type": "known",
+            "vocabId": "a-012"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "什么时候",
+            "pinyin": "shénme shíhou",
+            "fr": "quand",
+            "type": "new"
+          },
+          {
+            "hanzi": "需要",
+            "pinyin": "xūyào",
+            "fr": "avoir besoin",
+            "type": "known",
+            "vocabId": "a-035"
+          },
+          {
+            "hanzi": "帮助",
+            "pinyin": "bāngzhù",
+            "fr": "aide",
+            "type": "known",
+            "vocabId": "p-015"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "a-003",
+        "tokens": [
+          {
+            "hanzi": "有一天",
+            "pinyin": "yǒu yì tiān",
+            "fr": "un jour",
+            "type": "new"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "准备",
+            "pinyin": "zhǔnbèi",
+            "fr": "préparer",
+            "type": "known",
+            "vocabId": "a-015"
+          },
+          {
+            "hanzi": "考试",
+            "pinyin": "kǎoshì",
+            "fr": "examen",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "但是",
+            "pinyin": "dànshì",
+            "fr": "mais",
+            "type": "known",
+            "vocabId": "a-009"
+          },
+          {
+            "hanzi": "问题",
+            "pinyin": "wèntí",
+            "fr": "problème",
+            "type": "known",
+            "vocabId": "a-016"
+          },
+          {
+            "hanzi": "很困难",
+            "pinyin": "hěn kùnnan",
+            "fr": "très difficile",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "a-004",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "看了很久",
+            "pinyin": "kàn le hěn jiǔ",
+            "fr": "ai regardé longtemps",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "还是",
+            "pinyin": "háishì",
+            "fr": "toujours/quand même",
+            "type": "known",
+            "vocabId": "a-022"
+          },
+          {
+            "hanzi": "不懂",
+            "pinyin": "bù dǒng",
+            "fr": "ne pas comprendre",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "a-005",
+        "tokens": [
+          {
+            "hanzi": "白猫",
+            "pinyin": "bái māo",
+            "fr": "chat blanc",
+            "type": "new"
+          },
+          {
+            "hanzi": "跳到",
+            "pinyin": "tiào dào",
+            "fr": "sauter jusqu’à",
+            "type": "new"
+          },
+          {
+            "hanzi": "桌子上",
+            "pinyin": "zhuōzi shàng",
+            "fr": "sur la table",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "用",
+            "pinyin": "yòng",
+            "fr": "utiliser",
+            "type": "new"
+          },
+          {
+            "hanzi": "小脚",
+            "pinyin": "xiǎo jiǎo",
+            "fr": "petite patte",
+            "type": "new"
+          },
+          {
+            "hanzi": "碰了",
+            "pinyin": "pèng le",
+            "fr": "a touché",
+            "type": "new"
+          },
+          {
+            "hanzi": "一本书",
+            "pinyin": "yì běn shū",
+            "fr": "un livre",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "a-006",
+        "tokens": [
+          {
+            "hanzi": "那本书",
+            "pinyin": "nà běn shū",
+            "fr": "ce livre-là",
+            "type": "new"
+          },
+          {
+            "hanzi": "不是",
+            "pinyin": "bú shì",
+            "fr": "ne pas être",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "课本",
+            "pinyin": "kèběn",
+            "fr": "manuel",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "是",
+            "pinyin": "shì",
+            "fr": "être",
+            "type": "known",
+            "vocabId": "d-005"
+          },
+          {
+            "hanzi": "一本",
+            "pinyin": "yì běn",
+            "fr": "un livre",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "旧",
+            "pinyin": "jiù",
+            "fr": "ancien",
+            "type": "new"
+          },
+          {
+            "hanzi": "故事书",
+            "pinyin": "gùshì shū",
+            "fr": "livre d’histoires",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "a-007",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "打开",
+            "pinyin": "dǎkāi",
+            "fr": "ouvrir",
+            "type": "new"
+          },
+          {
+            "hanzi": "它",
+            "pinyin": "tā",
+            "fr": "le",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "突然",
+            "pinyin": "tūrán",
+            "fr": "soudain",
+            "type": "new"
+          },
+          {
+            "hanzi": "发现",
+            "pinyin": "fāxiàn",
+            "fr": "découvrir",
+            "type": "known",
+            "vocabId": "p-012"
+          },
+          {
+            "hanzi": "里面",
+            "pinyin": "lǐmiàn",
+            "fr": "à l’intérieur",
+            "type": "new"
+          },
+          {
+            "hanzi": "有",
+            "pinyin": "yǒu",
+            "fr": "il y a",
+            "type": "new"
+          },
+          {
+            "hanzi": "我需要的答案",
+            "pinyin": "wǒ xūyào de dá’àn",
+            "fr": "la réponse dont j’ai besoin",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "a-008",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "看着",
+            "pinyin": "kànzhe",
+            "fr": "regarder",
+            "type": "new"
+          },
+          {
+            "hanzi": "白猫",
+            "pinyin": "bái māo",
+            "fr": "chat blanc",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "问",
+            "pinyin": "wèn",
+            "fr": "demander",
+            "type": "new"
+          },
+          {
+            "hanzi": "：",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "“",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "为什么",
+            "pinyin": "wèishénme",
+            "fr": "pourquoi",
+            "type": "known",
+            "vocabId": "a-006"
+          },
+          {
+            "hanzi": "你",
+            "pinyin": "nǐ",
+            "fr": "tu",
+            "type": "known",
+            "vocabId": "d-002"
+          },
+          {
+            "hanzi": "知道",
+            "pinyin": "zhīdào",
+            "fr": "savoir",
+            "type": "known",
+            "vocabId": "a-012"
+          },
+          {
+            "hanzi": "？”",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "a-009",
+        "tokens": [
+          {
+            "hanzi": "白猫",
+            "pinyin": "bái māo",
+            "fr": "chat blanc",
+            "type": "new"
+          },
+          {
+            "hanzi": "没有回答",
+            "pinyin": "méiyǒu huídá",
+            "fr": "n’a pas répondu",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "只是",
+            "pinyin": "zhǐshì",
+            "fr": "seulement",
+            "type": "new"
+          },
+          {
+            "hanzi": "慢慢",
+            "pinyin": "mànmàn",
+            "fr": "lentement",
+            "type": "new"
+          },
+          {
+            "hanzi": "闭上眼睛",
+            "pinyin": "bì shàng yǎnjing",
+            "fr": "fermer les yeux",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "a-010",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "觉得",
+            "pinyin": "juéde",
+            "fr": "avoir l’impression",
+            "type": "known",
+            "vocabId": "a-010"
+          },
+          {
+            "hanzi": "这个朋友",
+            "pinyin": "zhège péngyou",
+            "fr": "cet ami",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "可能",
+            "pinyin": "kěnéng",
+            "fr": "peut-être",
+            "type": "known",
+            "vocabId": "p-001"
+          },
+          {
+            "hanzi": "不是",
+            "pinyin": "bú shì",
+            "fr": "ne pas être",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "一只普通猫",
+            "pinyin": "yì zhī pǔtōng māo",
+            "fr": "un chat ordinaire",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      }
+    ],
+    "translation": [
+      "Récemment, je trouve que le chat blanc est un peu étrange.",
+      "Il semble savoir quand j’ai besoin d’aide.",
+      "Un jour, je prépare un examen, mais les questions sont très difficiles.",
+      "Je les regarde pendant longtemps, mais je ne comprends toujours pas.",
+      "Le chat blanc saute sur la table et touche un livre avec sa petite patte.",
+      "Ce livre n’est pas un manuel, c’est un vieux livre d’histoires.",
+      "Je l’ouvre et découvre soudain qu’il contient la réponse dont j’ai besoin.",
+      "Je regarde le chat blanc et demande : « Pourquoi le sais-tu ? »",
+      "Le chat blanc ne répond pas ; il ferme seulement lentement les yeux.",
+      "J’ai l’impression que cet ami n’est peut-être pas un chat ordinaire."
+    ]
+  },
+  "pro": {
+    "title": "第四章 城市里的线索",
+    "series": "白猫",
+    "level": "pro",
+    "lines": [
+      {
+        "id": "p-001",
+        "tokens": [
+          {
+            "hanzi": "考试以后",
+            "pinyin": "kǎoshì yǐhòu",
+            "fr": "après l’examen",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "决定",
+            "pinyin": "juédìng",
+            "fr": "décider",
+            "type": "known",
+            "vocabId": "p-013"
+          },
+          {
+            "hanzi": "去",
+            "pinyin": "qù",
+            "fr": "aller",
+            "type": "known",
+            "vocabId": "i-035"
+          },
+          {
+            "hanzi": "城市",
+            "pinyin": "chéngshì",
+            "fr": "ville",
+            "type": "known",
+            "vocabId": "p-005"
+          },
+          {
+            "hanzi": "中心",
+            "pinyin": "zhōngxīn",
+            "fr": "centre",
+            "type": "new"
+          },
+          {
+            "hanzi": "找",
+            "pinyin": "zhǎo",
+            "fr": "chercher",
+            "type": "known",
+            "vocabId": "i-039"
+          },
+          {
+            "hanzi": "答案",
+            "pinyin": "dá’àn",
+            "fr": "réponse",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "p-002",
+        "tokens": [
+          {
+            "hanzi": "白猫",
+            "pinyin": "bái māo",
+            "fr": "chat blanc",
+            "type": "new"
+          },
+          {
+            "hanzi": "跟着",
+            "pinyin": "gēnzhe",
+            "fr": "suivre",
+            "type": "new"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "moi",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "好像",
+            "pinyin": "hǎoxiàng",
+            "fr": "sembler",
+            "type": "new"
+          },
+          {
+            "hanzi": "知道",
+            "pinyin": "zhīdào",
+            "fr": "savoir",
+            "type": "known",
+            "vocabId": "a-012"
+          },
+          {
+            "hanzi": "路线",
+            "pinyin": "lùxiàn",
+            "fr": "itinéraire",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "p-003",
+        "tokens": [
+          {
+            "hanzi": "我们",
+            "pinyin": "wǒmen",
+            "fr": "nous",
+            "type": "new"
+          },
+          {
+            "hanzi": "经过",
+            "pinyin": "jīngguò",
+            "fr": "passer par",
+            "type": "new"
+          },
+          {
+            "hanzi": "市场",
+            "pinyin": "shìchǎng",
+            "fr": "marché",
+            "type": "known",
+            "vocabId": "p-026"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "看见",
+            "pinyin": "kànjiàn",
+            "fr": "voir",
+            "type": "new"
+          },
+          {
+            "hanzi": "很多",
+            "pinyin": "hěn duō",
+            "fr": "beaucoup",
+            "type": "new"
+          },
+          {
+            "hanzi": "产品",
+            "pinyin": "chǎnpǐn",
+            "fr": "produits",
+            "type": "known",
+            "vocabId": "p-042"
+          },
+          {
+            "hanzi": "和",
+            "pinyin": "hé",
+            "fr": "et",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "不同",
+            "pinyin": "bùtóng",
+            "fr": "différents",
+            "type": "new"
+          },
+          {
+            "hanzi": "价格",
+            "pinyin": "jiàgé",
+            "fr": "prix",
+            "type": "known",
+            "vocabId": "p-027"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "p-004",
+        "tokens": [
+          {
+            "hanzi": "一个",
+            "pinyin": "yí ge",
+            "fr": "un",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "老人",
+            "pinyin": "lǎorén",
+            "fr": "vieil homme",
+            "type": "new"
+          },
+          {
+            "hanzi": "坐在",
+            "pinyin": "zuò zài",
+            "fr": "être assis à",
+            "type": "new"
+          },
+          {
+            "hanzi": "茶馆",
+            "pinyin": "cháguǎn",
+            "fr": "maison de thé",
+            "type": "new"
+          },
+          {
+            "hanzi": "门口",
+            "pinyin": "ménkǒu",
+            "fr": "entrée",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "看着",
+            "pinyin": "kànzhe",
+            "fr": "regardant",
+            "type": "new"
+          },
+          {
+            "hanzi": "白猫",
+            "pinyin": "bái māo",
+            "fr": "chat blanc",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "p-005",
+        "tokens": [
+          {
+            "hanzi": "他",
+            "pinyin": "tā",
+            "fr": "il",
+            "type": "known",
+            "vocabId": "d-003"
+          },
+          {
+            "hanzi": "说",
+            "pinyin": "shuō",
+            "fr": "dire",
+            "type": "new"
+          },
+          {
+            "hanzi": "：",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "“",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "你终于来了",
+            "pinyin": "nǐ zhōngyú lái le",
+            "fr": "tu es enfin arrivé",
+            "type": "new"
+          },
+          {
+            "hanzi": "。”",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "p-006",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "很",
+            "pinyin": "hěn",
+            "fr": "très",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "惊讶",
+            "pinyin": "jīngyà",
+            "fr": "surpris",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "因为",
+            "pinyin": "yīnwèi",
+            "fr": "parce que",
+            "type": "known",
+            "vocabId": "a-007"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "不认识",
+            "pinyin": "bú rènshi",
+            "fr": "ne pas connaître",
+            "type": "new"
+          },
+          {
+            "hanzi": "他",
+            "pinyin": "tā",
+            "fr": "lui",
+            "type": "known",
+            "vocabId": "d-003"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "p-007",
+        "tokens": [
+          {
+            "hanzi": "老人",
+            "pinyin": "lǎorén",
+            "fr": "vieil homme",
+            "type": "new"
+          },
+          {
+            "hanzi": "给",
+            "pinyin": "gěi",
+            "fr": "donner",
+            "type": "new"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "moi",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "一本",
+            "pinyin": "yì běn",
+            "fr": "un livre",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "小书",
+            "pinyin": "xiǎo shū",
+            "fr": "petit livre",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "封面",
+            "pinyin": "fēngmiàn",
+            "fr": "couverture",
+            "type": "new"
+          },
+          {
+            "hanzi": "上",
+            "pinyin": "shàng",
+            "fr": "sur",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "有",
+            "pinyin": "yǒu",
+            "fr": "il y a",
+            "type": "new"
+          },
+          {
+            "hanzi": "一只",
+            "pinyin": "yì zhī",
+            "fr": "un animal",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "白猫",
+            "pinyin": "bái māo",
+            "fr": "chat blanc",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "p-008",
+        "tokens": [
+          {
+            "hanzi": "他说",
+            "pinyin": "tā shuō",
+            "fr": "il dit",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "：",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "“",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "如果",
+            "pinyin": "rúguǒ",
+            "fr": "si",
+            "type": "new"
+          },
+          {
+            "hanzi": "你",
+            "pinyin": "nǐ",
+            "fr": "tu",
+            "type": "known",
+            "vocabId": "d-002"
+          },
+          {
+            "hanzi": "想",
+            "pinyin": "xiǎng",
+            "fr": "vouloir",
+            "type": "new"
+          },
+          {
+            "hanzi": "理解",
+            "pinyin": "lǐjiě",
+            "fr": "comprendre",
+            "type": "known",
+            "vocabId": "ex-001"
+          },
+          {
+            "hanzi": "它",
+            "pinyin": "tā",
+            "fr": "lui",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "先",
+            "pinyin": "xiān",
+            "fr": "d’abord",
+            "type": "new"
+          },
+          {
+            "hanzi": "读",
+            "pinyin": "dú",
+            "fr": "lire",
+            "type": "new"
+          },
+          {
+            "hanzi": "这个",
+            "pinyin": "zhège",
+            "fr": "ceci",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "。”",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "p-009",
+        "tokens": [
+          {
+            "hanzi": "白猫",
+            "pinyin": "bái māo",
+            "fr": "chat blanc",
+            "type": "new"
+          },
+          {
+            "hanzi": "跳到",
+            "pinyin": "tiào dào",
+            "fr": "sauter jusqu’à",
+            "type": "new"
+          },
+          {
+            "hanzi": "桌子",
+            "pinyin": "zhuōzi",
+            "fr": "table",
+            "type": "new"
+          },
+          {
+            "hanzi": "上",
+            "pinyin": "shàng",
+            "fr": "sur",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "轻轻",
+            "pinyin": "qīngqīng",
+            "fr": "doucement",
+            "type": "new"
+          },
+          {
+            "hanzi": "碰",
+            "pinyin": "pèng",
+            "fr": "toucher",
+            "type": "new"
+          },
+          {
+            "hanzi": "了",
+            "pinyin": "le",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "书",
+            "pinyin": "shū",
+            "fr": "livre",
+            "type": "known",
+            "vocabId": "d-011"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "p-010",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "知道",
+            "pinyin": "zhīdào",
+            "fr": "savoir",
+            "type": "known",
+            "vocabId": "a-012"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "新的",
+            "pinyin": "xīn de",
+            "fr": "nouveau",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "故事",
+            "pinyin": "gùshi",
+            "fr": "histoire",
+            "type": "new"
+          },
+          {
+            "hanzi": "开始",
+            "pinyin": "kāishǐ",
+            "fr": "commencer",
+            "type": "known",
+            "vocabId": "a-024"
+          },
+          {
+            "hanzi": "了",
+            "pinyin": "le",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      }
+    ],
+    "translation": [
+      "Après l’examen, je décide d’aller au centre-ville chercher des réponses.",
+      "Le chat blanc me suit, comme s’il connaissait le chemin.",
+      "Nous passons par le marché et voyons beaucoup de produits à différents prix.",
+      "Un vieil homme est assis à l’entrée d’une maison de thé et regarde le chat blanc.",
+      "Il dit : « Tu es enfin venu. »",
+      "Je suis très surprise, parce que je ne le connais pas.",
+      "Le vieil homme me donne un petit livre ; sur la couverture, il y a un chat blanc.",
+      "Il dit : « Si tu veux le comprendre, lis d’abord ceci. »",
+      "Le chat blanc saute sur la table et touche doucement le livre.",
+      "Je sais qu’une nouvelle histoire commence."
+    ]
+  },
+  "expert": {
+    "title": "第五章 书里的城市",
+    "series": "白猫",
+    "level": "expert",
+    "lines": [
+      {
+        "id": "ex-001",
+        "tokens": [
+          {
+            "hanzi": "晚上",
+            "pinyin": "wǎnshang",
+            "fr": "soir",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "打开",
+            "pinyin": "dǎkāi",
+            "fr": "ouvrir",
+            "type": "new"
+          },
+          {
+            "hanzi": "那本书",
+            "pinyin": "nà běn shū",
+            "fr": "ce livre",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "ex-002",
+        "tokens": [
+          {
+            "hanzi": "第一页",
+            "pinyin": "dì yī yè",
+            "fr": "première page",
+            "type": "new"
+          },
+          {
+            "hanzi": "没有",
+            "pinyin": "méiyǒu",
+            "fr": "ne pas avoir",
+            "type": "new"
+          },
+          {
+            "hanzi": "文字",
+            "pinyin": "wénzì",
+            "fr": "texte/caractères",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "只有",
+            "pinyin": "zhǐyǒu",
+            "fr": "seulement",
+            "type": "new"
+          },
+          {
+            "hanzi": "一幅",
+            "pinyin": "yì fú",
+            "fr": "une image",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "城市",
+            "pinyin": "chéngshì",
+            "fr": "ville",
+            "type": "known",
+            "vocabId": "p-005"
+          },
+          {
+            "hanzi": "地图",
+            "pinyin": "dìtú",
+            "fr": "carte",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "ex-003",
+        "tokens": [
+          {
+            "hanzi": "地图",
+            "pinyin": "dìtú",
+            "fr": "carte",
+            "type": "new"
+          },
+          {
+            "hanzi": "上",
+            "pinyin": "shàng",
+            "fr": "sur",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "有",
+            "pinyin": "yǒu",
+            "fr": "il y a",
+            "type": "new"
+          },
+          {
+            "hanzi": "学校",
+            "pinyin": "xuéxiào",
+            "fr": "école",
+            "type": "known",
+            "vocabId": "i-003"
+          },
+          {
+            "hanzi": "、",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "医院",
+            "pinyin": "yīyuàn",
+            "fr": "hôpital",
+            "type": "known",
+            "vocabId": "a-003"
+          },
+          {
+            "hanzi": "、",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "图书馆",
+            "pinyin": "túshūguǎn",
+            "fr": "bibliothèque",
+            "type": "known",
+            "vocabId": "a-002"
+          },
+          {
+            "hanzi": "和",
+            "pinyin": "hé",
+            "fr": "et",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "一个",
+            "pinyin": "yí ge",
+            "fr": "un",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "奇怪",
+            "pinyin": "qíguài",
+            "fr": "étrange",
+            "type": "new"
+          },
+          {
+            "hanzi": "的",
+            "pinyin": "de",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "地方",
+            "pinyin": "dìfang",
+            "fr": "endroit",
+            "type": "known",
+            "vocabId": "a-018"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "ex-004",
+        "tokens": [
+          {
+            "hanzi": "那个地方",
+            "pinyin": "nà ge dìfang",
+            "fr": "cet endroit",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "没有",
+            "pinyin": "méiyǒu",
+            "fr": "ne pas avoir",
+            "type": "new"
+          },
+          {
+            "hanzi": "名字",
+            "pinyin": "míngzi",
+            "fr": "nom",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "只有",
+            "pinyin": "zhǐyǒu",
+            "fr": "seulement",
+            "type": "new"
+          },
+          {
+            "hanzi": "一个",
+            "pinyin": "yí ge",
+            "fr": "un",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "白猫",
+            "pinyin": "bái māo",
+            "fr": "chat blanc",
+            "type": "new"
+          },
+          {
+            "hanzi": "的",
+            "pinyin": "de",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "标志",
+            "pinyin": "biāozhì",
+            "fr": "symbole",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "ex-005",
+        "tokens": [
+          {
+            "hanzi": "突然",
+            "pinyin": "tūrán",
+            "fr": "soudain",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "房间",
+            "pinyin": "fángjiān",
+            "fr": "chambre",
+            "type": "new"
+          },
+          {
+            "hanzi": "里",
+            "pinyin": "lǐ",
+            "fr": "dans",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "的",
+            "pinyin": "de",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "灯",
+            "pinyin": "dēng",
+            "fr": "lampe",
+            "type": "new"
+          },
+          {
+            "hanzi": "变暗",
+            "pinyin": "biàn àn",
+            "fr": "s’assombrir",
+            "type": "new"
+          },
+          {
+            "hanzi": "了",
+            "pinyin": "le",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "ex-006",
+        "tokens": [
+          {
+            "hanzi": "白猫",
+            "pinyin": "bái māo",
+            "fr": "chat blanc",
+            "type": "new"
+          },
+          {
+            "hanzi": "站在",
+            "pinyin": "zhàn zài",
+            "fr": "se tenir debout à",
+            "type": "new"
+          },
+          {
+            "hanzi": "地图",
+            "pinyin": "dìtú",
+            "fr": "carte",
+            "type": "new"
+          },
+          {
+            "hanzi": "上",
+            "pinyin": "shàng",
+            "fr": "sur",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "爪子",
+            "pinyin": "zhuǎzi",
+            "fr": "patte/griffe",
+            "type": "new"
+          },
+          {
+            "hanzi": "指着",
+            "pinyin": "zhǐzhe",
+            "fr": "pointer",
+            "type": "new"
+          },
+          {
+            "hanzi": "那个",
+            "pinyin": "nà ge",
+            "fr": "ce",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "没有名字",
+            "pinyin": "méiyǒu míngzi",
+            "fr": "sans nom",
+            "type": "new"
+          },
+          {
+            "hanzi": "的",
+            "pinyin": "de",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "地方",
+            "pinyin": "dìfang",
+            "fr": "endroit",
+            "type": "known",
+            "vocabId": "a-018"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "ex-007",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "意识到",
+            "pinyin": "yìshí dào",
+            "fr": "prendre conscience",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "这",
+            "pinyin": "zhè",
+            "fr": "ceci",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "不是",
+            "pinyin": "bú shì",
+            "fr": "ne pas être",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "普通",
+            "pinyin": "pǔtōng",
+            "fr": "ordinaire",
+            "type": "new"
+          },
+          {
+            "hanzi": "的",
+            "pinyin": "de",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "故事书",
+            "pinyin": "gùshì shū",
+            "fr": "livre d’histoires",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "ex-008",
+        "tokens": [
+          {
+            "hanzi": "它",
+            "pinyin": "tā",
+            "fr": "il",
+            "type": "new"
+          },
+          {
+            "hanzi": "像",
+            "pinyin": "xiàng",
+            "fr": "ressembler à",
+            "type": "new"
+          },
+          {
+            "hanzi": "一扇门",
+            "pinyin": "yí shàn mén",
+            "fr": "une porte",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "通向",
+            "pinyin": "tōngxiàng",
+            "fr": "mener vers",
+            "type": "new"
+          },
+          {
+            "hanzi": "另一个",
+            "pinyin": "lìng yí ge",
+            "fr": "un autre",
+            "type": "new"
+          },
+          {
+            "hanzi": "城市",
+            "pinyin": "chéngshì",
+            "fr": "ville",
+            "type": "known",
+            "vocabId": "p-005"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "ex-009",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "有点",
+            "pinyin": "yǒudiǎn",
+            "fr": "un peu",
+            "type": "new"
+          },
+          {
+            "hanzi": "害怕",
+            "pinyin": "hàipà",
+            "fr": "avoir peur",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "但是",
+            "pinyin": "dànshì",
+            "fr": "mais",
+            "type": "known",
+            "vocabId": "a-009"
+          },
+          {
+            "hanzi": "也",
+            "pinyin": "yě",
+            "fr": "aussi",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "很好奇",
+            "pinyin": "hěn hàoqí",
+            "fr": "très curieux",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "ex-010",
+        "tokens": [
+          {
+            "hanzi": "白猫",
+            "pinyin": "bái māo",
+            "fr": "chat blanc",
+            "type": "new"
+          },
+          {
+            "hanzi": "看着",
+            "pinyin": "kànzhe",
+            "fr": "regarder",
+            "type": "new"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "moi",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "好像",
+            "pinyin": "hǎoxiàng",
+            "fr": "comme si",
+            "type": "new"
+          },
+          {
+            "hanzi": "在说",
+            "pinyin": "zài shuō",
+            "fr": "était en train de dire",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "：",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "“",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "现在",
+            "pinyin": "xiànzài",
+            "fr": "maintenant",
+            "type": "known",
+            "vocabId": "i-014"
+          },
+          {
+            "hanzi": "选择",
+            "pinyin": "xuǎnzé",
+            "fr": "choisis",
+            "type": "known",
+            "vocabId": "p-017"
+          },
+          {
+            "hanzi": "。”",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      }
+    ],
+    "translation": [
+      "Le soir, j’ouvre ce livre.",
+      "La première page n’a pas de texte, seulement une carte de la ville.",
+      "Sur la carte, il y a l’école, l’hôpital, la bibliothèque et un endroit étrange.",
+      "Cet endroit n’a pas de nom, seulement le symbole d’un chat blanc.",
+      "Soudain, la lumière de la chambre s’assombrit.",
+      "Le chat blanc se tient sur la carte et pointe de sa patte l’endroit sans nom.",
+      "Je prends conscience que ce n’est pas un livre d’histoires ordinaire.",
+      "Il ressemble à une porte menant vers une autre ville.",
+      "J’ai un peu peur, mais je suis aussi très curieuse.",
+      "Le chat blanc me regarde, comme s’il disait : « Maintenant, choisis. »"
+    ]
+  },
+  "genius": {
+    "title": "第六章 另一座城",
+    "series": "白猫",
+    "level": "genius",
+    "lines": [
+      {
+        "id": "g-001",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "把手",
+            "pinyin": "bǎ shǒu",
+            "fr": "mettre la main",
+            "type": "new"
+          },
+          {
+            "hanzi": "放在",
+            "pinyin": "fàng zài",
+            "fr": "poser sur",
+            "type": "new"
+          },
+          {
+            "hanzi": "地图",
+            "pinyin": "dìtú",
+            "fr": "carte",
+            "type": "new"
+          },
+          {
+            "hanzi": "上",
+            "pinyin": "shàng",
+            "fr": "sur",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "g-002",
+        "tokens": [
+          {
+            "hanzi": "一瞬间",
+            "pinyin": "yí shùnjiān",
+            "fr": "en un instant",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "世界",
+            "pinyin": "shìjiè",
+            "fr": "monde",
+            "type": "new"
+          },
+          {
+            "hanzi": "变得",
+            "pinyin": "biàn de",
+            "fr": "devenir",
+            "type": "new"
+          },
+          {
+            "hanzi": "很安静",
+            "pinyin": "hěn ānjìng",
+            "fr": "très silencieux",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "g-003",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "听不见",
+            "pinyin": "tīng bu jiàn",
+            "fr": "ne plus entendre",
+            "type": "new"
+          },
+          {
+            "hanzi": "车",
+            "pinyin": "chē",
+            "fr": "voitures",
+            "type": "new"
+          },
+          {
+            "hanzi": "的",
+            "pinyin": "de",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "声音",
+            "pinyin": "shēngyīn",
+            "fr": "son",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "也",
+            "pinyin": "yě",
+            "fr": "aussi",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "听不见",
+            "pinyin": "tīng bu jiàn",
+            "fr": "ne plus entendre",
+            "type": "new"
+          },
+          {
+            "hanzi": "自己",
+            "pinyin": "zìjǐ",
+            "fr": "soi-même",
+            "type": "new"
+          },
+          {
+            "hanzi": "的",
+            "pinyin": "de",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "呼吸",
+            "pinyin": "hūxī",
+            "fr": "respiration",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "g-004",
+        "tokens": [
+          {
+            "hanzi": "然后",
+            "pinyin": "ránhòu",
+            "fr": "ensuite",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "站在",
+            "pinyin": "zhàn zài",
+            "fr": "me tenir debout",
+            "type": "new"
+          },
+          {
+            "hanzi": "一条",
+            "pinyin": "yì tiáo",
+            "fr": "une",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "陌生",
+            "pinyin": "mòshēng",
+            "fr": "inconnue",
+            "type": "new"
+          },
+          {
+            "hanzi": "的",
+            "pinyin": "de",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "街",
+            "pinyin": "jiē",
+            "fr": "rue",
+            "type": "new"
+          },
+          {
+            "hanzi": "上",
+            "pinyin": "shàng",
+            "fr": "sur",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "g-005",
+        "tokens": [
+          {
+            "hanzi": "这座城",
+            "pinyin": "zhè zuò chéng",
+            "fr": "cette ville",
+            "type": "new"
+          },
+          {
+            "hanzi": "没有",
+            "pinyin": "méiyǒu",
+            "fr": "ne pas avoir",
+            "type": "new"
+          },
+          {
+            "hanzi": "太阳",
+            "pinyin": "tàiyáng",
+            "fr": "soleil",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "但是",
+            "pinyin": "dànshì",
+            "fr": "mais",
+            "type": "known",
+            "vocabId": "a-009"
+          },
+          {
+            "hanzi": "天空",
+            "pinyin": "tiānkōng",
+            "fr": "ciel",
+            "type": "new"
+          },
+          {
+            "hanzi": "是",
+            "pinyin": "shì",
+            "fr": "être",
+            "type": "known",
+            "vocabId": "d-005"
+          },
+          {
+            "hanzi": "亮",
+            "pinyin": "liàng",
+            "fr": "lumineux",
+            "type": "new"
+          },
+          {
+            "hanzi": "的",
+            "pinyin": "de",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "g-006",
+        "tokens": [
+          {
+            "hanzi": "路边",
+            "pinyin": "lùbiān",
+            "fr": "bord de route",
+            "type": "new"
+          },
+          {
+            "hanzi": "的",
+            "pinyin": "de",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "人",
+            "pinyin": "rén",
+            "fr": "personnes",
+            "type": "known",
+            "vocabId": "d-008"
+          },
+          {
+            "hanzi": "不说话",
+            "pinyin": "bù shuōhuà",
+            "fr": "ne parlent pas",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "他们",
+            "pinyin": "tāmen",
+            "fr": "ils",
+            "type": "new"
+          },
+          {
+            "hanzi": "只用",
+            "pinyin": "zhǐ yòng",
+            "fr": "utilisent seulement",
+            "type": "new"
+          },
+          {
+            "hanzi": "眼睛",
+            "pinyin": "yǎnjing",
+            "fr": "yeux",
+            "type": "new"
+          },
+          {
+            "hanzi": "交流",
+            "pinyin": "jiāoliú",
+            "fr": "communiquer",
+            "type": "known",
+            "vocabId": "p-032"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "g-007",
+        "tokens": [
+          {
+            "hanzi": "白猫",
+            "pinyin": "bái māo",
+            "fr": "chat blanc",
+            "type": "new"
+          },
+          {
+            "hanzi": "走在",
+            "pinyin": "zǒu zài",
+            "fr": "marcher à",
+            "type": "new"
+          },
+          {
+            "hanzi": "前面",
+            "pinyin": "qiánmiàn",
+            "fr": "devant",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "每一步",
+            "pinyin": "měi yí bù",
+            "fr": "chaque pas",
+            "type": "new"
+          },
+          {
+            "hanzi": "都",
+            "pinyin": "dōu",
+            "fr": "tous",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "像",
+            "pinyin": "xiàng",
+            "fr": "ressembler à",
+            "type": "new"
+          },
+          {
+            "hanzi": "知道",
+            "pinyin": "zhīdào",
+            "fr": "savoir",
+            "type": "known",
+            "vocabId": "a-012"
+          },
+          {
+            "hanzi": "方向",
+            "pinyin": "fāngxiàng",
+            "fr": "direction",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "g-008",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "突然",
+            "pinyin": "tūrán",
+            "fr": "soudain",
+            "type": "new"
+          },
+          {
+            "hanzi": "想到",
+            "pinyin": "xiǎng dào",
+            "fr": "penser à",
+            "type": "new"
+          },
+          {
+            "hanzi": "一个",
+            "pinyin": "yí ge",
+            "fr": "un",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "问题",
+            "pinyin": "wèntí",
+            "fr": "problème",
+            "type": "known",
+            "vocabId": "a-016"
+          },
+          {
+            "hanzi": "：",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "如果",
+            "pinyin": "rúguǒ",
+            "fr": "si",
+            "type": "new"
+          },
+          {
+            "hanzi": "它",
+            "pinyin": "tā",
+            "fr": "il",
+            "type": "new"
+          },
+          {
+            "hanzi": "不是",
+            "pinyin": "bú shì",
+            "fr": "ne pas être",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "猫",
+            "pinyin": "māo",
+            "fr": "chat",
+            "type": "known",
+            "vocabId": "d-009"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "那",
+            "pinyin": "nà",
+            "fr": "alors",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "它",
+            "pinyin": "tā",
+            "fr": "il",
+            "type": "new"
+          },
+          {
+            "hanzi": "是什么",
+            "pinyin": "shì shénme",
+            "fr": "qu’est-ce que c’est",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "？",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "g-009",
+        "tokens": [
+          {
+            "hanzi": "这时",
+            "pinyin": "zhè shí",
+            "fr": "à ce moment-là",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "远处",
+            "pinyin": "yuǎnchù",
+            "fr": "au loin",
+            "type": "new"
+          },
+          {
+            "hanzi": "出现",
+            "pinyin": "chūxiàn",
+            "fr": "apparaître",
+            "type": "new"
+          },
+          {
+            "hanzi": "一座",
+            "pinyin": "yí zuò",
+            "fr": "un bâtiment/montagne",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "黑色",
+            "pinyin": "hēisè",
+            "fr": "noir",
+            "type": "new"
+          },
+          {
+            "hanzi": "的",
+            "pinyin": "de",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "图书馆",
+            "pinyin": "túshūguǎn",
+            "fr": "bibliothèque",
+            "type": "known",
+            "vocabId": "a-002"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "g-010",
+        "tokens": [
+          {
+            "hanzi": "门口",
+            "pinyin": "ménkǒu",
+            "fr": "entrée",
+            "type": "new"
+          },
+          {
+            "hanzi": "写着",
+            "pinyin": "xiězhe",
+            "fr": "il est écrit",
+            "type": "new"
+          },
+          {
+            "hanzi": "四个字",
+            "pinyin": "sì ge zì",
+            "fr": "quatre caractères",
+            "type": "new"
+          },
+          {
+            "hanzi": "：",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "记忆之城",
+            "pinyin": "jìyì zhī chéng",
+            "fr": "la ville de la mémoire",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      }
+    ],
+    "translation": [
+      "Je pose la main sur la carte.",
+      "En un instant, le monde devient très silencieux.",
+      "Je n’entends plus le bruit des voitures, ni même ma propre respiration.",
+      "Puis je me tiens dans une rue inconnue.",
+      "Cette ville n’a pas de soleil, mais le ciel est lumineux.",
+      "Les gens au bord de la route ne parlent pas ; ils communiquent seulement avec les yeux.",
+      "Le chat blanc marche devant, et chacun de ses pas semble connaître la direction.",
+      "Je pense soudain à une question : s’il n’est pas un chat, alors qu’est-il ?",
+      "À ce moment-là, une bibliothèque noire apparaît au loin.",
+      "À l’entrée sont écrits quatre caractères : la Ville de la Mémoire."
+    ]
+  },
+  "swag": {
+    "title": "第七章 梦蝶",
+    "series": "白猫",
+    "level": "swag",
+    "lines": [
+      {
+        "id": "s-001",
+        "tokens": [
+          {
+            "hanzi": "图书馆",
+            "pinyin": "túshūguǎn",
+            "fr": "bibliothèque",
+            "type": "known",
+            "vocabId": "a-002"
+          },
+          {
+            "hanzi": "里面",
+            "pinyin": "lǐmiàn",
+            "fr": "à l’intérieur",
+            "type": "new"
+          },
+          {
+            "hanzi": "没有",
+            "pinyin": "méiyǒu",
+            "fr": "ne pas avoir",
+            "type": "new"
+          },
+          {
+            "hanzi": "书架",
+            "pinyin": "shūjià",
+            "fr": "étagères",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "只有",
+            "pinyin": "zhǐyǒu",
+            "fr": "seulement",
+            "type": "new"
+          },
+          {
+            "hanzi": "无数",
+            "pinyin": "wúshù",
+            "fr": "innombrables",
+            "type": "new"
+          },
+          {
+            "hanzi": "发光",
+            "pinyin": "fāguāng",
+            "fr": "lumineux",
+            "type": "new"
+          },
+          {
+            "hanzi": "的",
+            "pinyin": "de",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "蝴蝶",
+            "pinyin": "húdié",
+            "fr": "papillons",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "s-002",
+        "tokens": [
+          {
+            "hanzi": "每一只",
+            "pinyin": "měi yì zhī",
+            "fr": "chaque",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "蝴蝶",
+            "pinyin": "húdié",
+            "fr": "papillon",
+            "type": "new"
+          },
+          {
+            "hanzi": "都",
+            "pinyin": "dōu",
+            "fr": "tous",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "像",
+            "pinyin": "xiàng",
+            "fr": "ressembler à",
+            "type": "new"
+          },
+          {
+            "hanzi": "一个",
+            "pinyin": "yí ge",
+            "fr": "un",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "记忆",
+            "pinyin": "jìyì",
+            "fr": "souvenir",
+            "type": "known",
+            "vocabId": "g-014"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "s-003",
+        "tokens": [
+          {
+            "hanzi": "白猫",
+            "pinyin": "bái māo",
+            "fr": "chat blanc",
+            "type": "new"
+          },
+          {
+            "hanzi": "停下",
+            "pinyin": "tíng xià",
+            "fr": "s’arrêter",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "第一次",
+            "pinyin": "dì yī cì",
+            "fr": "pour la première fois",
+            "type": "new"
+          },
+          {
+            "hanzi": "开口",
+            "pinyin": "kāikǒu",
+            "fr": "ouvrir la bouche/parler",
+            "type": "new"
+          },
+          {
+            "hanzi": "说话",
+            "pinyin": "shuōhuà",
+            "fr": "parler",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "s-004",
+        "tokens": [
+          {
+            "hanzi": "它",
+            "pinyin": "tā",
+            "fr": "il",
+            "type": "new"
+          },
+          {
+            "hanzi": "说",
+            "pinyin": "shuō",
+            "fr": "dire",
+            "type": "new"
+          },
+          {
+            "hanzi": "：",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "“",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "你",
+            "pinyin": "nǐ",
+            "fr": "tu",
+            "type": "known",
+            "vocabId": "d-002"
+          },
+          {
+            "hanzi": "以为",
+            "pinyin": "yǐwéi",
+            "fr": "croire à tort",
+            "type": "new"
+          },
+          {
+            "hanzi": "你",
+            "pinyin": "nǐ",
+            "fr": "tu",
+            "type": "known",
+            "vocabId": "d-002"
+          },
+          {
+            "hanzi": "在",
+            "pinyin": "zài",
+            "fr": "être en train de",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "学习",
+            "pinyin": "xuéxí",
+            "fr": "étudier",
+            "type": "known",
+            "vocabId": "i-013"
+          },
+          {
+            "hanzi": "汉语",
+            "pinyin": "Hànyǔ",
+            "fr": "chinois",
+            "type": "known",
+            "vocabId": "i-007"
+          },
+          {
+            "hanzi": "。”",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "s-005",
+        "tokens": [
+          {
+            "hanzi": "它",
+            "pinyin": "tā",
+            "fr": "il",
+            "type": "new"
+          },
+          {
+            "hanzi": "又",
+            "pinyin": "yòu",
+            "fr": "à nouveau",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "说",
+            "pinyin": "shuō",
+            "fr": "dire",
+            "type": "new"
+          },
+          {
+            "hanzi": "：",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "“",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "其实",
+            "pinyin": "qíshí",
+            "fr": "en réalité",
+            "type": "new"
+          },
+          {
+            "hanzi": "汉语",
+            "pinyin": "Hànyǔ",
+            "fr": "chinois",
+            "type": "known",
+            "vocabId": "i-007"
+          },
+          {
+            "hanzi": "也",
+            "pinyin": "yě",
+            "fr": "aussi",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "在",
+            "pinyin": "zài",
+            "fr": "en train de",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "学习",
+            "pinyin": "xuéxí",
+            "fr": "étudier",
+            "type": "known",
+            "vocabId": "i-013"
+          },
+          {
+            "hanzi": "你",
+            "pinyin": "nǐ",
+            "fr": "toi",
+            "type": "known",
+            "vocabId": "d-002"
+          },
+          {
+            "hanzi": "。”",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "s-006",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "不懂",
+            "pinyin": "bù dǒng",
+            "fr": "ne pas comprendre",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "但是",
+            "pinyin": "dànshì",
+            "fr": "mais",
+            "type": "known",
+            "vocabId": "a-009"
+          },
+          {
+            "hanzi": "心里",
+            "pinyin": "xīnli",
+            "fr": "dans le cœur",
+            "type": "new"
+          },
+          {
+            "hanzi": "突然",
+            "pinyin": "tūrán",
+            "fr": "soudain",
+            "type": "new"
+          },
+          {
+            "hanzi": "很安静",
+            "pinyin": "hěn ānjìng",
+            "fr": "très calme",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "s-007",
+        "tokens": [
+          {
+            "hanzi": "一只",
+            "pinyin": "yì zhī",
+            "fr": "un animal",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "蓝色",
+            "pinyin": "lánsè",
+            "fr": "bleu",
+            "type": "new"
+          },
+          {
+            "hanzi": "蝴蝶",
+            "pinyin": "húdié",
+            "fr": "papillon",
+            "type": "new"
+          },
+          {
+            "hanzi": "飞到",
+            "pinyin": "fēi dào",
+            "fr": "voler jusqu’à",
+            "type": "new"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "moi",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "手上",
+            "pinyin": "shǒu shàng",
+            "fr": "sur la main",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "s-008",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "看见",
+            "pinyin": "kànjiàn",
+            "fr": "voir",
+            "type": "new"
+          },
+          {
+            "hanzi": "里面",
+            "pinyin": "lǐmiàn",
+            "fr": "à l’intérieur",
+            "type": "new"
+          },
+          {
+            "hanzi": "有",
+            "pinyin": "yǒu",
+            "fr": "il y a",
+            "type": "new"
+          },
+          {
+            "hanzi": "小时候",
+            "pinyin": "xiǎo shíhou",
+            "fr": "enfance",
+            "type": "new"
+          },
+          {
+            "hanzi": "的",
+            "pinyin": "de",
+            "fr": "particule",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "moi",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "s-009",
+        "tokens": [
+          {
+            "hanzi": "那个",
+            "pinyin": "nà ge",
+            "fr": "ce",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "小小的",
+            "pinyin": "xiǎo xiǎo de",
+            "fr": "tout petit",
+            "type": "new"
+          },
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "moi",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "坐在",
+            "pinyin": "zuò zài",
+            "fr": "être assis",
+            "type": "new"
+          },
+          {
+            "hanzi": "窗边",
+            "pinyin": "chuāng biān",
+            "fr": "près de la fenêtre",
+            "type": "new"
+          },
+          {
+            "hanzi": "，",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "第一次",
+            "pinyin": "dì yī cì",
+            "fr": "première fois",
+            "type": "new"
+          },
+          {
+            "hanzi": "写",
+            "pinyin": "xiě",
+            "fr": "écrire",
+            "type": "new"
+          },
+          {
+            "hanzi": "一个",
+            "pinyin": "yí ge",
+            "fr": "un",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "汉字",
+            "pinyin": "Hànzì",
+            "fr": "caractère chinois",
+            "type": "new"
+          },
+          {
+            "hanzi": "。",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      },
+      {
+        "id": "s-010",
+        "tokens": [
+          {
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "fr": "je",
+            "type": "known",
+            "vocabId": "d-001"
+          },
+          {
+            "hanzi": "问",
+            "pinyin": "wèn",
+            "fr": "demander",
+            "type": "new"
+          },
+          {
+            "hanzi": "：",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "“",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "这是",
+            "pinyin": "zhè shì",
+            "fr": "c’est",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "梦",
+            "pinyin": "mèng",
+            "fr": "rêve",
+            "type": "new"
+          },
+          {
+            "hanzi": "吗",
+            "pinyin": "ma",
+            "fr": "question",
+            "type": "grammar"
+          },
+          {
+            "hanzi": "？”",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "白猫",
+            "pinyin": "bái māo",
+            "fr": "chat blanc",
+            "type": "new"
+          },
+          {
+            "hanzi": "说",
+            "pinyin": "shuō",
+            "fr": "dire",
+            "type": "new"
+          },
+          {
+            "hanzi": "：",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "“",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          },
+          {
+            "hanzi": "也许",
+            "pinyin": "yěxǔ",
+            "fr": "peut-être",
+            "type": "known",
+            "vocabId": "s-999"
+          },
+          {
+            "hanzi": "。”",
+            "pinyin": "",
+            "fr": "",
+            "type": "punct"
+          }
+        ]
+      }
+    ],
+    "translation": [
+      "À l’intérieur de la bibliothèque, il n’y a pas d’étagères, seulement d’innombrables papillons lumineux.",
+      "Chaque papillon ressemble à un souvenir.",
+      "Le chat blanc s’arrête et parle pour la première fois.",
+      "Il dit : « Tu crois que tu es en train d’apprendre le chinois. »",
+      "Il ajoute : « En réalité, le chinois est aussi en train de t’apprendre. »",
+      "Je ne comprends pas, mais mon cœur devient soudain très calme.",
+      "Un papillon bleu vole jusqu’à ma main.",
+      "Je vois à l’intérieur mon moi d’enfance.",
+      "Ce tout petit moi est assis près de la fenêtre et écrit un caractère chinois pour la première fois.",
+      "Je demande : « Est-ce un rêve ? » Le chat blanc répond : « Peut-être. »"
+    ]
+  }
+}

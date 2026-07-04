@@ -1,0 +1,506 @@
+{
+  "debutant": [
+    {
+      "id": "rd-001",
+      "sentence": "___ 是学生。",
+      "answer": "我",
+      "pinyin": "wǒ",
+      "fr": "Je suis étudiant."
+    },
+    {
+      "id": "rd-002",
+      "sentence": "___ 好。",
+      "answer": "你",
+      "pinyin": "nǐ",
+      "fr": "Tu vas bien."
+    },
+    {
+      "id": "rd-003",
+      "sentence": "我喝 ___。",
+      "answer": "水",
+      "pinyin": "shuǐ",
+      "fr": "Je bois de l'eau."
+    },
+    {
+      "id": "rd-004",
+      "sentence": "她看 ___。",
+      "answer": "书",
+      "pinyin": "shū",
+      "fr": "Elle lit un livre."
+    },
+    {
+      "id": "rd-005",
+      "sentence": "我爱 ___。",
+      "answer": "茶",
+      "pinyin": "chá",
+      "fr": "J'aime le thé."
+    },
+    {
+      "id": "rd-006",
+      "sentence": "___ 很大。",
+      "answer": "狗",
+      "pinyin": "gǒu",
+      "fr": "Le chien est grand."
+    },
+    {
+      "id": "rd-007",
+      "sentence": "___ 很小。",
+      "answer": "猫",
+      "pinyin": "māo",
+      "fr": "Le chat est petit."
+    },
+    {
+      "id": "rd-008",
+      "sentence": "我不 ___。",
+      "answer": "吃",
+      "pinyin": "chī",
+      "fr": "Je ne mange pas."
+    },
+    {
+      "id": "rd-009",
+      "sentence": "他 ___ 我。",
+      "answer": "爱",
+      "pinyin": "ài",
+      "fr": "Il m'aime."
+    },
+    {
+      "id": "rd-010",
+      "sentence": "___ 是人。",
+      "answer": "她",
+      "pinyin": "tā",
+      "fr": "Elle est une personne."
+    }
+  ],
+  "intermediaire": [
+    {
+      "id": "ri-001",
+      "sentence": "我是 ___。",
+      "answer": "学生",
+      "pinyin": "xuéshēng",
+      "fr": "Je suis étudiant."
+    },
+    {
+      "id": "ri-002",
+      "sentence": "她是我的 ___。",
+      "answer": "朋友",
+      "pinyin": "péngyou",
+      "fr": "Elle est mon amie."
+    },
+    {
+      "id": "ri-003",
+      "sentence": "我在 ___ 学习。",
+      "answer": "学校",
+      "pinyin": "xuéxiào",
+      "fr": "J'étudie à l'école."
+    },
+    {
+      "id": "ri-004",
+      "sentence": "他是 ___。",
+      "answer": "医生",
+      "pinyin": "yīshēng",
+      "fr": "Il est médecin."
+    },
+    {
+      "id": "ri-005",
+      "sentence": "我用 ___ 工作。",
+      "answer": "电脑",
+      "pinyin": "diànnǎo",
+      "fr": "J'utilise l'ordinateur pour travailler."
+    },
+    {
+      "id": "ri-006",
+      "sentence": "___ 是我的家。",
+      "answer": "法国",
+      "pinyin": "Fǎguó",
+      "fr": "La France est mon pays."
+    },
+    {
+      "id": "ri-007",
+      "sentence": "我学习 ___。",
+      "answer": "汉语",
+      "pinyin": "Hànyǔ",
+      "fr": "J'apprends le chinois."
+    },
+    {
+      "id": "ri-008",
+      "sentence": "___ 你去哪里？",
+      "answer": "今天",
+      "pinyin": "jīntiān",
+      "fr": "Aujourd'hui, où vas-tu ?"
+    },
+    {
+      "id": "ri-009",
+      "sentence": "你在找 ___？",
+      "answer": "什么",
+      "pinyin": "shénme",
+      "fr": "Qu'est-ce que tu cherches ?"
+    },
+    {
+      "id": "ri-010",
+      "sentence": "你有 ___ 朋友？",
+      "answer": "多少",
+      "pinyin": "duōshao",
+      "fr": "Combien d'amis as-tu ?"
+    }
+  ],
+  "avance": [
+    {
+      "id": "ra-001",
+      "sentence": "我不知道 ___。",
+      "answer": "为什么",
+      "pinyin": "wèishénme",
+      "fr": "Je ne sais pas pourquoi."
+    },
+    {
+      "id": "ra-002",
+      "sentence": "___ 下雨，所以我不去。",
+      "answer": "因为",
+      "pinyin": "yīnwèi",
+      "fr": "Parce qu'il pleut, je n'y vais pas."
+    },
+    {
+      "id": "ra-003",
+      "sentence": "我很累，___ 想休息。",
+      "answer": "所以",
+      "pinyin": "suǒyǐ",
+      "fr": "Je suis fatigué, donc je veux me reposer."
+    },
+    {
+      "id": "ra-004",
+      "sentence": "我喜欢你，___ 我很忙。",
+      "answer": "但是",
+      "pinyin": "dànshì",
+      "fr": "Je t'aime bien, mais je suis occupé."
+    },
+    {
+      "id": "ra-005",
+      "sentence": "这个问题很 ___。",
+      "answer": "重要",
+      "pinyin": "zhòngyào",
+      "fr": "Cette question est importante."
+    },
+    {
+      "id": "ra-006",
+      "sentence": "你 ___ 去医院。",
+      "answer": "应该",
+      "pinyin": "yīnggāi",
+      "fr": "Tu devrais aller à l'hôpital."
+    },
+    {
+      "id": "ra-007",
+      "sentence": "我正在 ___ 考试。",
+      "answer": "准备",
+      "pinyin": "zhǔnbèi",
+      "fr": "Je prépare un examen."
+    },
+    {
+      "id": "ra-008",
+      "sentence": "这个 ___ 很漂亮。",
+      "answer": "地方",
+      "pinyin": "dìfang",
+      "fr": "Cet endroit est joli."
+    },
+    {
+      "id": "ra-009",
+      "sentence": "我没有 ___。",
+      "answer": "时间",
+      "pinyin": "shíjiān",
+      "fr": "Je n'ai pas le temps."
+    },
+    {
+      "id": "ra-010",
+      "sentence": "你 ___ 来这里。",
+      "answer": "可以",
+      "pinyin": "kěyǐ",
+      "fr": "Tu peux venir ici."
+    }
+  ],
+  "pro": [
+    {
+      "id": "rp-001",
+      "sentence": "这是一个好 ___。",
+      "answer": "机会",
+      "pinyin": "jīhuì",
+      "fr": "C'est une bonne occasion."
+    },
+    {
+      "id": "rp-002",
+      "sentence": "我想改变我的 ___。",
+      "answer": "生活",
+      "pinyin": "shēnghuó",
+      "fr": "Je veux changer ma vie."
+    },
+    {
+      "id": "rp-003",
+      "sentence": "这个城市很有 ___。",
+      "answer": "文化",
+      "pinyin": "wénhuà",
+      "fr": "Cette ville a beaucoup de culture."
+    },
+    {
+      "id": "rp-004",
+      "sentence": "我们需要一个 ___。",
+      "answer": "办法",
+      "pinyin": "bànfǎ",
+      "fr": "Nous avons besoin d'une solution."
+    },
+    {
+      "id": "rp-005",
+      "sentence": "她 ___ 了一个问题。",
+      "answer": "发现",
+      "pinyin": "fāxiàn",
+      "fr": "Elle a remarqué un problème."
+    },
+    {
+      "id": "rp-006",
+      "sentence": "我已经做了 ___。",
+      "answer": "决定",
+      "pinyin": "juédìng",
+      "fr": "J'ai déjà pris une décision."
+    },
+    {
+      "id": "rp-007",
+      "sentence": "谢谢你的 ___。",
+      "answer": "帮助",
+      "pinyin": "bāngzhù",
+      "fr": "Merci pour ton aide."
+    },
+    {
+      "id": "rp-008",
+      "sentence": "这个地方很 ___。",
+      "answer": "安全",
+      "pinyin": "ānquán",
+      "fr": "Cet endroit est sûr."
+    },
+    {
+      "id": "rp-009",
+      "sentence": "我想要更多 ___。",
+      "answer": "自由",
+      "pinyin": "zìyóu",
+      "fr": "Je veux plus de liberté."
+    },
+    {
+      "id": "rp-010",
+      "sentence": "我们讨论这个 ___。",
+      "answer": "问题",
+      "pinyin": "wèntí",
+      "fr": "Nous discutons de ce problème."
+    }
+  ],
+  "expert": [
+    {
+      "id": "rex-001",
+      "sentence": "我们需要更多 ___。",
+      "answer": "经验",
+      "pinyin": "jīngyàn",
+      "fr": "Nous avons besoin de plus d'expérience."
+    },
+    {
+      "id": "rex-002",
+      "sentence": "环境会 ___ 人。",
+      "answer": "影响",
+      "pinyin": "yǐngxiǎng",
+      "fr": "L'environnement influence les gens."
+    },
+    {
+      "id": "rex-003",
+      "sentence": "这是一个 ___ 问题。",
+      "answer": "社会",
+      "pinyin": "shèhuì",
+      "fr": "C'est un problème social."
+    },
+    {
+      "id": "rex-004",
+      "sentence": "科技改变了 ___。",
+      "answer": "经济",
+      "pinyin": "jīngjì",
+      "fr": "La technologie a changé l'économie."
+    },
+    {
+      "id": "rex-005",
+      "sentence": "我喜欢现代 ___。",
+      "answer": "艺术",
+      "pinyin": "yìshù",
+      "fr": "J'aime l'art moderne."
+    },
+    {
+      "id": "rex-006",
+      "sentence": "这个概念很 ___。",
+      "answer": "复杂",
+      "pinyin": "fùzá",
+      "fr": "Ce concept est complexe."
+    },
+    {
+      "id": "rex-007",
+      "sentence": "未来充满 ___。",
+      "answer": "挑战",
+      "pinyin": "tiǎozhàn",
+      "fr": "L'avenir est plein de défis."
+    },
+    {
+      "id": "rex-008",
+      "sentence": "我们分析这些 ___。",
+      "answer": "数据",
+      "pinyin": "shùjù",
+      "fr": "Nous analysons ces données."
+    },
+    {
+      "id": "rex-009",
+      "sentence": "媒体会 ___ 信息。",
+      "answer": "传播",
+      "pinyin": "chuánbō",
+      "fr": "Les médias diffusent l'information."
+    },
+    {
+      "id": "rex-010",
+      "sentence": "这是全球 ___。",
+      "answer": "趋势",
+      "pinyin": "qūshì",
+      "fr": "C'est une tendance mondiale."
+    }
+  ],
+  "genius": [
+    {
+      "id": "rg-001",
+      "sentence": "人有复杂的 ___。",
+      "answer": "意识",
+      "pinyin": "yìshí",
+      "fr": "Les humains ont une conscience complexe."
+    },
+    {
+      "id": "rg-002",
+      "sentence": "这个问题涉及 ___。",
+      "answer": "哲学",
+      "pinyin": "zhéxué",
+      "fr": "Cette question touche à la philosophie."
+    },
+    {
+      "id": "rg-003",
+      "sentence": "我们寻找生命的 ___。",
+      "answer": "意义",
+      "pinyin": "yìyì",
+      "fr": "Nous cherchons le sens de la vie."
+    },
+    {
+      "id": "rg-004",
+      "sentence": "这个说法有 ___。",
+      "answer": "矛盾",
+      "pinyin": "máodùn",
+      "fr": "Cette affirmation contient une contradiction."
+    },
+    {
+      "id": "rg-005",
+      "sentence": "这是一个自然 ___。",
+      "answer": "现象",
+      "pinyin": "xiànxiàng",
+      "fr": "C'est un phénomène naturel."
+    },
+    {
+      "id": "rg-006",
+      "sentence": "科学需要 ___。",
+      "answer": "证明",
+      "pinyin": "zhèngmíng",
+      "fr": "La science demande des preuves."
+    },
+    {
+      "id": "rg-007",
+      "sentence": "我开始 ___ 这个结论。",
+      "answer": "怀疑",
+      "pinyin": "huáiyí",
+      "fr": "Je commence à douter de cette conclusion."
+    },
+    {
+      "id": "rg-008",
+      "sentence": "逻辑帮助我们 ___。",
+      "answer": "判断",
+      "pinyin": "pànduàn",
+      "fr": "La logique nous aide à juger."
+    },
+    {
+      "id": "rg-009",
+      "sentence": "我们观察这个 ___。",
+      "answer": "系统",
+      "pinyin": "xìtǒng",
+      "fr": "Nous observons ce système."
+    },
+    {
+      "id": "rg-010",
+      "sentence": "这个理论解释 ___。",
+      "answer": "因果",
+      "pinyin": "yīnguǒ",
+      "fr": "Cette théorie explique la causalité."
+    }
+  ],
+  "swag": [
+    {
+      "id": "rs-001",
+      "sentence": "梦里有奇怪的 ___。",
+      "answer": "幻觉",
+      "pinyin": "huànjué",
+      "fr": "Dans le rêve, il y a une hallucination étrange."
+    },
+    {
+      "id": "rs-002",
+      "sentence": "宇宙充满 ___。",
+      "answer": "能量",
+      "pinyin": "néngliàng",
+      "fr": "L'univers est rempli d'énergie."
+    },
+    {
+      "id": "rs-003",
+      "sentence": "这个图案像一个 ___。",
+      "answer": "分形",
+      "pinyin": "fēnxíng",
+      "fr": "Ce motif ressemble à une fractale."
+    },
+    {
+      "id": "rs-004",
+      "sentence": "音乐产生了 ___。",
+      "answer": "共鸣",
+      "pinyin": "gòngmíng",
+      "fr": "La musique crée une résonance."
+    },
+    {
+      "id": "rs-005",
+      "sentence": "这个想法很 ___。",
+      "answer": "超现实",
+      "pinyin": "chāoxiànshí",
+      "fr": "Cette idée est surréelle."
+    },
+    {
+      "id": "rs-006",
+      "sentence": "哲学常常讨论 ___。",
+      "answer": "悖论",
+      "pinyin": "bèilùn",
+      "fr": "La philosophie discute souvent des paradoxes."
+    },
+    {
+      "id": "rs-007",
+      "sentence": "道家重视 ___。",
+      "answer": "无为",
+      "pinyin": "wúwéi",
+      "fr": "Le taoïsme valorise le non-agir."
+    },
+    {
+      "id": "rs-008",
+      "sentence": "阴和阳形成 ___。",
+      "answer": "阴阳",
+      "pinyin": "yīnyáng",
+      "fr": "Le yin et le yang forment le yin-yang."
+    },
+    {
+      "id": "rs-009",
+      "sentence": "禅修可能带来 ___。",
+      "answer": "顿悟",
+      "pinyin": "dùnwù",
+      "fr": "La méditation zen peut apporter l'éveil soudain."
+    },
+    {
+      "id": "rs-010",
+      "sentence": "他想 ___ 现实。",
+      "answer": "超越",
+      "pinyin": "chāoyuè",
+      "fr": "Il veut transcender la réalité."
+    }
+  ]
+}

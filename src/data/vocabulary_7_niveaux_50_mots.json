@@ -1,0 +1,1642 @@
+{
+  "debutant": [
+    {
+      "id": "d-001",
+      "hanzi": "我",
+      "pinyin": "wǒ",
+      "fr": "je / moi"
+    },
+    {
+      "id": "d-002",
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "fr": "tu / toi"
+    },
+    {
+      "id": "d-003",
+      "hanzi": "他",
+      "pinyin": "tā",
+      "fr": "il / lui"
+    },
+    {
+      "id": "d-004",
+      "hanzi": "她",
+      "pinyin": "tā",
+      "fr": "elle"
+    },
+    {
+      "id": "d-005",
+      "hanzi": "是",
+      "pinyin": "shì",
+      "fr": "être"
+    },
+    {
+      "id": "d-006",
+      "hanzi": "不",
+      "pinyin": "bù",
+      "fr": "ne pas"
+    },
+    {
+      "id": "d-007",
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "fr": "bien / bon"
+    },
+    {
+      "id": "d-008",
+      "hanzi": "人",
+      "pinyin": "rén",
+      "fr": "personne"
+    },
+    {
+      "id": "d-009",
+      "hanzi": "猫",
+      "pinyin": "māo",
+      "fr": "chat"
+    },
+    {
+      "id": "d-010",
+      "hanzi": "狗",
+      "pinyin": "gǒu",
+      "fr": "chien"
+    },
+    {
+      "id": "d-011",
+      "hanzi": "书",
+      "pinyin": "shū",
+      "fr": "livre"
+    },
+    {
+      "id": "d-012",
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "fr": "eau"
+    },
+    {
+      "id": "d-013",
+      "hanzi": "茶",
+      "pinyin": "chá",
+      "fr": "thé"
+    },
+    {
+      "id": "d-014",
+      "hanzi": "吃",
+      "pinyin": "chī",
+      "fr": "manger"
+    },
+    {
+      "id": "d-015",
+      "hanzi": "喝",
+      "pinyin": "hē",
+      "fr": "boire"
+    },
+    {
+      "id": "d-016",
+      "hanzi": "看",
+      "pinyin": "kàn",
+      "fr": "regarder / lire"
+    },
+    {
+      "id": "d-017",
+      "hanzi": "听",
+      "pinyin": "tīng",
+      "fr": "écouter"
+    },
+    {
+      "id": "d-018",
+      "hanzi": "大",
+      "pinyin": "dà",
+      "fr": "grand"
+    },
+    {
+      "id": "d-019",
+      "hanzi": "小",
+      "pinyin": "xiǎo",
+      "fr": "petit"
+    },
+    {
+      "id": "d-020",
+      "hanzi": "爱",
+      "pinyin": "ài",
+      "fr": "aimer"
+    },
+    {
+      "id": "d-021",
+      "hanzi": "零",
+      "pinyin": "líng",
+      "fr": "zéro"
+    },
+    {
+      "id": "d-022",
+      "hanzi": "一",
+      "pinyin": "yī",
+      "fr": "un"
+    },
+    {
+      "id": "d-023",
+      "hanzi": "二",
+      "pinyin": "èr",
+      "fr": "deux"
+    },
+    {
+      "id": "d-024",
+      "hanzi": "三",
+      "pinyin": "sān",
+      "fr": "trois"
+    },
+    {
+      "id": "d-025",
+      "hanzi": "四",
+      "pinyin": "sì",
+      "fr": "quatre"
+    },
+    {
+      "id": "d-026",
+      "hanzi": "五",
+      "pinyin": "wǔ",
+      "fr": "cinq"
+    },
+    {
+      "id": "d-027",
+      "hanzi": "六",
+      "pinyin": "liù",
+      "fr": "six"
+    },
+    {
+      "id": "d-028",
+      "hanzi": "七",
+      "pinyin": "qī",
+      "fr": "sept"
+    },
+    {
+      "id": "d-029",
+      "hanzi": "八",
+      "pinyin": "bā",
+      "fr": "huit"
+    },
+    {
+      "id": "d-030",
+      "hanzi": "九",
+      "pinyin": "jiǔ",
+      "fr": "neuf"
+    },
+    {
+      "id": "d-031",
+      "hanzi": "十",
+      "pinyin": "shí",
+      "fr": "dix"
+    }
+  ],
+  "intermediaire": [
+    {
+      "id": "i-001",
+      "hanzi": "学生",
+      "pinyin": "xuéshēng",
+      "fr": "étudiant"
+    },
+    {
+      "id": "i-002",
+      "hanzi": "老师",
+      "pinyin": "lǎoshī",
+      "fr": "professeur"
+    },
+    {
+      "id": "i-003",
+      "hanzi": "学校",
+      "pinyin": "xuéxiào",
+      "fr": "école"
+    },
+    {
+      "id": "i-004",
+      "hanzi": "朋友",
+      "pinyin": "péngyou",
+      "fr": "ami"
+    },
+    {
+      "id": "i-005",
+      "hanzi": "中国",
+      "pinyin": "Zhōngguó",
+      "fr": "Chine"
+    },
+    {
+      "id": "i-006",
+      "hanzi": "法国",
+      "pinyin": "Fǎguó",
+      "fr": "France"
+    },
+    {
+      "id": "i-007",
+      "hanzi": "汉语",
+      "pinyin": "Hànyǔ",
+      "fr": "langue chinoise"
+    },
+    {
+      "id": "i-008",
+      "hanzi": "中文",
+      "pinyin": "Zhōngwén",
+      "fr": "chinois écrit / langue chinoise"
+    },
+    {
+      "id": "i-009",
+      "hanzi": "电脑",
+      "pinyin": "diànnǎo",
+      "fr": "ordinateur"
+    },
+    {
+      "id": "i-010",
+      "hanzi": "手机",
+      "pinyin": "shǒujī",
+      "fr": "téléphone portable"
+    },
+    {
+      "id": "i-011",
+      "hanzi": "医生",
+      "pinyin": "yīshēng",
+      "fr": "médecin"
+    },
+    {
+      "id": "i-012",
+      "hanzi": "工作",
+      "pinyin": "gōngzuò",
+      "fr": "travailler / travail"
+    },
+    {
+      "id": "i-013",
+      "hanzi": "学习",
+      "pinyin": "xuéxí",
+      "fr": "étudier / apprendre"
+    },
+    {
+      "id": "i-014",
+      "hanzi": "现在",
+      "pinyin": "xiànzài",
+      "fr": "maintenant"
+    },
+    {
+      "id": "i-015",
+      "hanzi": "今天",
+      "pinyin": "jīntiān",
+      "fr": "aujourd'hui"
+    },
+    {
+      "id": "i-016",
+      "hanzi": "明天",
+      "pinyin": "míngtiān",
+      "fr": "demain"
+    },
+    {
+      "id": "i-017",
+      "hanzi": "什么",
+      "pinyin": "shénme",
+      "fr": "quoi / quel"
+    },
+    {
+      "id": "i-018",
+      "hanzi": "谁",
+      "pinyin": "shéi",
+      "fr": "qui"
+    },
+    {
+      "id": "i-019",
+      "hanzi": "哪里",
+      "pinyin": "nǎlǐ",
+      "fr": "où"
+    },
+    {
+      "id": "i-020",
+      "hanzi": "多少",
+      "pinyin": "duōshao",
+      "fr": "combien"
+    },
+    {
+      "id": "i-021",
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "fr": "maison/famille"
+    },
+    {
+      "id": "i-022",
+      "hanzi": "妈妈",
+      "pinyin": "māma",
+      "fr": "maman"
+    },
+    {
+      "id": "i-023",
+      "hanzi": "爸爸",
+      "pinyin": "bàba",
+      "fr": "papa"
+    },
+    {
+      "id": "i-024",
+      "hanzi": "姐姐",
+      "pinyin": "jiějie",
+      "fr": "grande sœur"
+    },
+    {
+      "id": "i-025",
+      "hanzi": "弟弟",
+      "pinyin": "dìdi",
+      "fr": "petit frère"
+    },
+    {
+      "id": "i-026",
+      "hanzi": "妹妹",
+      "pinyin": "mèimei",
+      "fr": "petite sœur"
+    },
+    {
+      "id": "i-027",
+      "hanzi": "儿子",
+      "pinyin": "érzi",
+      "fr": "fils"
+    },
+    {
+      "id": "i-028",
+      "hanzi": "女儿",
+      "pinyin": "nǚ'ér",
+      "fr": "fille"
+    },
+    {
+      "id": "i-029",
+      "hanzi": "开",
+      "pinyin": "kāi",
+      "fr": "ouvrir"
+    },
+    {
+      "id": "i-030",
+      "hanzi": "关",
+      "pinyin": "guān",
+      "fr": "fermer"
+    },
+    {
+      "id": "i-031",
+      "hanzi": "买",
+      "pinyin": "mǎi",
+      "fr": "acheter"
+    },
+    {
+      "id": "i-032",
+      "hanzi": "卖",
+      "pinyin": "mài",
+      "fr": "vendre"
+    },
+    {
+      "id": "i-033",
+      "hanzi": "走",
+      "pinyin": "zǒu",
+      "fr": "marcher/partir"
+    },
+    {
+      "id": "i-034",
+      "hanzi": "来",
+      "pinyin": "lái",
+      "fr": "venir"
+    },
+    {
+      "id": "i-035",
+      "hanzi": "去",
+      "pinyin": "qù",
+      "fr": "aller"
+    },
+    {
+      "id": "i-036",
+      "hanzi": "坐",
+      "pinyin": "zuò",
+      "fr": "s'asseoir"
+    },
+    {
+      "id": "i-037",
+      "hanzi": "起",
+      "pinyin": "qǐ",
+      "fr": "se lever"
+    },
+    {
+      "id": "i-038",
+      "hanzi": "给",
+      "pinyin": "gěi",
+      "fr": "donner"
+    },
+    {
+      "id": "i-039",
+      "hanzi": "找",
+      "pinyin": "zhǎo",
+      "fr": "chercher"
+    },
+    {
+      "id": "i-040",
+      "hanzi": "等",
+      "pinyin": "děng",
+      "fr": "attendre"
+    }
+  ],
+  "avance": [
+    {
+      "id": "a-001",
+      "hanzi": "工程师",
+      "pinyin": "gōngchéngshī",
+      "fr": "ingénieur"
+    },
+    {
+      "id": "a-002",
+      "hanzi": "图书馆",
+      "pinyin": "túshūguǎn",
+      "fr": "bibliothèque"
+    },
+    {
+      "id": "a-003",
+      "hanzi": "医院",
+      "pinyin": "yīyuàn",
+      "fr": "hôpital"
+    },
+    {
+      "id": "a-004",
+      "hanzi": "机场",
+      "pinyin": "jīchǎng",
+      "fr": "aéroport"
+    },
+    {
+      "id": "a-005",
+      "hanzi": "火车站",
+      "pinyin": "huǒchēzhàn",
+      "fr": "gare"
+    },
+    {
+      "id": "a-006",
+      "hanzi": "为什么",
+      "pinyin": "wèishénme",
+      "fr": "pourquoi"
+    },
+    {
+      "id": "a-007",
+      "hanzi": "因为",
+      "pinyin": "yīnwèi",
+      "fr": "parce que"
+    },
+    {
+      "id": "a-008",
+      "hanzi": "所以",
+      "pinyin": "suǒyǐ",
+      "fr": "donc / c'est pourquoi"
+    },
+    {
+      "id": "a-009",
+      "hanzi": "但是",
+      "pinyin": "dànshì",
+      "fr": "mais"
+    },
+    {
+      "id": "a-010",
+      "hanzi": "觉得",
+      "pinyin": "juéde",
+      "fr": "penser / trouver que"
+    },
+    {
+      "id": "a-011",
+      "hanzi": "喜欢",
+      "pinyin": "xǐhuan",
+      "fr": "aimer / apprécier"
+    },
+    {
+      "id": "a-012",
+      "hanzi": "知道",
+      "pinyin": "zhīdào",
+      "fr": "savoir"
+    },
+    {
+      "id": "a-013",
+      "hanzi": "可以",
+      "pinyin": "kěyǐ",
+      "fr": "pouvoir / avoir le droit"
+    },
+    {
+      "id": "a-014",
+      "hanzi": "应该",
+      "pinyin": "yīnggāi",
+      "fr": "devrait / devoir"
+    },
+    {
+      "id": "a-015",
+      "hanzi": "准备",
+      "pinyin": "zhǔnbèi",
+      "fr": "préparer"
+    },
+    {
+      "id": "a-016",
+      "hanzi": "问题",
+      "pinyin": "wèntí",
+      "fr": "question / problème"
+    },
+    {
+      "id": "a-017",
+      "hanzi": "时间",
+      "pinyin": "shíjiān",
+      "fr": "temps"
+    },
+    {
+      "id": "a-018",
+      "hanzi": "地方",
+      "pinyin": "dìfang",
+      "fr": "endroit"
+    },
+    {
+      "id": "a-019",
+      "hanzi": "漂亮",
+      "pinyin": "piàoliang",
+      "fr": "joli / belle"
+    },
+    {
+      "id": "a-020",
+      "hanzi": "重要",
+      "pinyin": "zhòngyào",
+      "fr": "important"
+    },
+    {
+      "id": "a-021",
+      "hanzi": "已经",
+      "pinyin": "yǐjīng",
+      "fr": "déjà"
+    },
+    {
+      "id": "a-022",
+      "hanzi": "还是",
+      "pinyin": "háishì",
+      "fr": "ou bien/encore"
+    },
+    {
+      "id": "a-023",
+      "hanzi": "一起",
+      "pinyin": "yìqǐ",
+      "fr": "ensemble"
+    },
+    {
+      "id": "a-024",
+      "hanzi": "开始",
+      "pinyin": "kāishǐ",
+      "fr": "commencer"
+    },
+    {
+      "id": "a-025",
+      "hanzi": "结束",
+      "pinyin": "jiéshù",
+      "fr": "terminer"
+    },
+    {
+      "id": "a-026",
+      "hanzi": "比较",
+      "pinyin": "bǐjiào",
+      "fr": "comparer/plutôt"
+    },
+    {
+      "id": "a-027",
+      "hanzi": "最近",
+      "pinyin": "zuìjìn",
+      "fr": "récemment"
+    },
+    {
+      "id": "a-028",
+      "hanzi": "以前",
+      "pinyin": "yǐqián",
+      "fr": "avant"
+    },
+    {
+      "id": "a-029",
+      "hanzi": "以后",
+      "pinyin": "yǐhòu",
+      "fr": "après"
+    },
+    {
+      "id": "a-030",
+      "hanzi": "附近",
+      "pinyin": "fùjìn",
+      "fr": "près de"
+    },
+    {
+      "id": "a-031",
+      "hanzi": "容易",
+      "pinyin": "róngyì",
+      "fr": "facile"
+    },
+    {
+      "id": "a-032",
+      "hanzi": "困难",
+      "pinyin": "kùnnan",
+      "fr": "difficile"
+    },
+    {
+      "id": "a-033",
+      "hanzi": "认真",
+      "pinyin": "rènzhēn",
+      "fr": "sérieux"
+    },
+    {
+      "id": "a-034",
+      "hanzi": "担心",
+      "pinyin": "dānxīn",
+      "fr": "s'inquiéter"
+    },
+    {
+      "id": "a-035",
+      "hanzi": "需要",
+      "pinyin": "xūyào",
+      "fr": "avoir besoin"
+    },
+    {
+      "id": "a-036",
+      "hanzi": "完成",
+      "pinyin": "wánchéng",
+      "fr": "accomplir"
+    },
+    {
+      "id": "a-037",
+      "hanzi": "决定",
+      "pinyin": "juédìng",
+      "fr": "décider"
+    },
+    {
+      "id": "a-038",
+      "hanzi": "保持",
+      "pinyin": "bǎochí",
+      "fr": "maintenir"
+    },
+    {
+      "id": "a-039",
+      "hanzi": "提高",
+      "pinyin": "tígāo",
+      "fr": "améliorer"
+    },
+    {
+      "id": "a-040",
+      "hanzi": "继续",
+      "pinyin": "jìxù",
+      "fr": "continuer"
+    }
+  ],
+  "pro": [
+    {
+      "id": "p-001",
+      "hanzi": "可能",
+      "pinyin": "kěnéng",
+      "fr": "possible / peut-être"
+    },
+    {
+      "id": "p-002",
+      "hanzi": "必须",
+      "pinyin": "bìxū",
+      "fr": "devoir absolument"
+    },
+    {
+      "id": "p-003",
+      "hanzi": "机会",
+      "pinyin": "jīhuì",
+      "fr": "occasion / chance"
+    },
+    {
+      "id": "p-004",
+      "hanzi": "生活",
+      "pinyin": "shēnghuó",
+      "fr": "vie / vivre"
+    },
+    {
+      "id": "p-005",
+      "hanzi": "城市",
+      "pinyin": "chéngshì",
+      "fr": "ville"
+    },
+    {
+      "id": "p-006",
+      "hanzi": "文化",
+      "pinyin": "wénhuà",
+      "fr": "culture"
+    },
+    {
+      "id": "p-007",
+      "hanzi": "历史",
+      "pinyin": "lìshǐ",
+      "fr": "histoire"
+    },
+    {
+      "id": "p-008",
+      "hanzi": "音乐",
+      "pinyin": "yīnyuè",
+      "fr": "musique"
+    },
+    {
+      "id": "p-009",
+      "hanzi": "电影",
+      "pinyin": "diànyǐng",
+      "fr": "film / cinéma"
+    },
+    {
+      "id": "p-010",
+      "hanzi": "语言",
+      "pinyin": "yǔyán",
+      "fr": "langue / langage"
+    },
+    {
+      "id": "p-011",
+      "hanzi": "办法",
+      "pinyin": "bànfǎ",
+      "fr": "méthode / solution"
+    },
+    {
+      "id": "p-012",
+      "hanzi": "发现",
+      "pinyin": "fāxiàn",
+      "fr": "découvrir / remarquer"
+    },
+    {
+      "id": "p-013",
+      "hanzi": "决定",
+      "pinyin": "juédìng",
+      "fr": "décider"
+    },
+    {
+      "id": "p-014",
+      "hanzi": "希望",
+      "pinyin": "xīwàng",
+      "fr": "espérer / espoir"
+    },
+    {
+      "id": "p-015",
+      "hanzi": "帮助",
+      "pinyin": "bāngzhù",
+      "fr": "aider / aide"
+    },
+    {
+      "id": "p-016",
+      "hanzi": "改变",
+      "pinyin": "gǎibiàn",
+      "fr": "changer / changement"
+    },
+    {
+      "id": "p-017",
+      "hanzi": "选择",
+      "pinyin": "xuǎnzé",
+      "fr": "choisir / choix"
+    },
+    {
+      "id": "p-018",
+      "hanzi": "关系",
+      "pinyin": "guānxì",
+      "fr": "relation / rapport"
+    },
+    {
+      "id": "p-019",
+      "hanzi": "安全",
+      "pinyin": "ānquán",
+      "fr": "sécurité / sûr"
+    },
+    {
+      "id": "p-020",
+      "hanzi": "自由",
+      "pinyin": "zìyóu",
+      "fr": "liberté / libre"
+    },
+    {
+      "id": "p-031",
+      "hanzi": "国际",
+      "pinyin": "guójì",
+      "fr": "international"
+    },
+    {
+      "id": "p-032",
+      "hanzi": "交流",
+      "pinyin": "jiāoliú",
+      "fr": "échanger"
+    },
+    {
+      "id": "p-033",
+      "hanzi": "合作",
+      "pinyin": "hézuò",
+      "fr": "coopérer"
+    },
+    {
+      "id": "p-034",
+      "hanzi": "管理",
+      "pinyin": "guǎnlǐ",
+      "fr": "gérer"
+    },
+    {
+      "id": "p-035",
+      "hanzi": "组织",
+      "pinyin": "zǔzhī",
+      "fr": "organisation"
+    },
+    {
+      "id": "p-036",
+      "hanzi": "计划",
+      "pinyin": "jìhuà",
+      "fr": "planifier"
+    },
+    {
+      "id": "p-037",
+      "hanzi": "目标",
+      "pinyin": "mùbiāo",
+      "fr": "objectif"
+    },
+    {
+      "id": "p-038",
+      "hanzi": "项目",
+      "pinyin": "xiàngmù",
+      "fr": "projet"
+    },
+    {
+      "id": "p-039",
+      "hanzi": "会议",
+      "pinyin": "huìyì",
+      "fr": "réunion"
+    },
+    {
+      "id": "p-040",
+      "hanzi": "客户",
+      "pinyin": "kèhù",
+      "fr": "client"
+    },
+    {
+      "id": "p-041",
+      "hanzi": "服务",
+      "pinyin": "fúwù",
+      "fr": "service"
+    },
+    {
+      "id": "p-042",
+      "hanzi": "产品",
+      "pinyin": "chǎnpǐn",
+      "fr": "produit"
+    },
+    {
+      "id": "p-043",
+      "hanzi": "质量",
+      "pinyin": "zhìliàng",
+      "fr": "qualité"
+    },
+    {
+      "id": "p-044",
+      "hanzi": "效率",
+      "pinyin": "xiàolǜ",
+      "fr": "efficacité"
+    },
+    {
+      "id": "p-045",
+      "hanzi": "资源",
+      "pinyin": "zīyuán",
+      "fr": "ressource"
+    },
+    {
+      "id": "p-046",
+      "hanzi": "竞争",
+      "pinyin": "jìngzhēng",
+      "fr": "concurrence"
+    },
+    {
+      "id": "p-047",
+      "hanzi": "品牌",
+      "pinyin": "pǐnpái",
+      "fr": "marque"
+    },
+    {
+      "id": "p-048",
+      "hanzi": "投资",
+      "pinyin": "tóuzī",
+      "fr": "investissement"
+    },
+    {
+      "id": "p-049",
+      "hanzi": "收入",
+      "pinyin": "shōurù",
+      "fr": "revenu"
+    },
+    {
+      "id": "p-050",
+      "hanzi": "成本",
+      "pinyin": "chéngběn",
+      "fr": "coût"
+    }
+  ],
+  "expert": [
+    {
+      "id": "ex-001",
+      "hanzi": "理解",
+      "pinyin": "lǐjiě",
+      "fr": "comprendre"
+    },
+    {
+      "id": "ex-002",
+      "hanzi": "表达",
+      "pinyin": "biǎodá",
+      "fr": "exprimer"
+    },
+    {
+      "id": "ex-003",
+      "hanzi": "经验",
+      "pinyin": "jīngyàn",
+      "fr": "expérience"
+    },
+    {
+      "id": "ex-004",
+      "hanzi": "社会",
+      "pinyin": "shèhuì",
+      "fr": "société"
+    },
+    {
+      "id": "ex-005",
+      "hanzi": "环境",
+      "pinyin": "huánjìng",
+      "fr": "environnement"
+    },
+    {
+      "id": "ex-006",
+      "hanzi": "发展",
+      "pinyin": "fāzhǎn",
+      "fr": "développement / développer"
+    },
+    {
+      "id": "ex-007",
+      "hanzi": "影响",
+      "pinyin": "yǐngxiǎng",
+      "fr": "influence / influencer"
+    },
+    {
+      "id": "ex-008",
+      "hanzi": "经济",
+      "pinyin": "jīngjì",
+      "fr": "économie"
+    },
+    {
+      "id": "ex-009",
+      "hanzi": "政治",
+      "pinyin": "zhèngzhì",
+      "fr": "politique"
+    },
+    {
+      "id": "ex-010",
+      "hanzi": "科学",
+      "pinyin": "kēxué",
+      "fr": "science"
+    },
+    {
+      "id": "ex-011",
+      "hanzi": "技术",
+      "pinyin": "jìshù",
+      "fr": "technologie / technique"
+    },
+    {
+      "id": "ex-012",
+      "hanzi": "艺术",
+      "pinyin": "yìshù",
+      "fr": "art"
+    },
+    {
+      "id": "ex-013",
+      "hanzi": "精神",
+      "pinyin": "jīngshén",
+      "fr": "esprit / mental"
+    },
+    {
+      "id": "ex-014",
+      "hanzi": "自然",
+      "pinyin": "zìrán",
+      "fr": "nature / naturel"
+    },
+    {
+      "id": "ex-015",
+      "hanzi": "感觉",
+      "pinyin": "gǎnjué",
+      "fr": "sentir / impression"
+    },
+    {
+      "id": "ex-016",
+      "hanzi": "特别",
+      "pinyin": "tèbié",
+      "fr": "spécial / particulièrement"
+    },
+    {
+      "id": "ex-017",
+      "hanzi": "复杂",
+      "pinyin": "fùzá",
+      "fr": "complexe"
+    },
+    {
+      "id": "ex-018",
+      "hanzi": "简单",
+      "pinyin": "jiǎndān",
+      "fr": "simple"
+    },
+    {
+      "id": "ex-019",
+      "hanzi": "未来",
+      "pinyin": "wèilái",
+      "fr": "futur / avenir"
+    },
+    {
+      "id": "ex-020",
+      "hanzi": "过去",
+      "pinyin": "guòqù",
+      "fr": "passé"
+    },
+    {
+      "id": "ex-031",
+      "hanzi": "法律",
+      "pinyin": "fǎlǜ",
+      "fr": "loi"
+    },
+    {
+      "id": "ex-032",
+      "hanzi": "制度",
+      "pinyin": "zhìdù",
+      "fr": "système/régime"
+    },
+    {
+      "id": "ex-033",
+      "hanzi": "民主",
+      "pinyin": "mínzhǔ",
+      "fr": "démocratie"
+    },
+    {
+      "id": "ex-034",
+      "hanzi": "媒体",
+      "pinyin": "méitǐ",
+      "fr": "médias"
+    },
+    {
+      "id": "ex-035",
+      "hanzi": "公众",
+      "pinyin": "gōngzhòng",
+      "fr": "public"
+    },
+    {
+      "id": "ex-036",
+      "hanzi": "调查",
+      "pinyin": "diàochá",
+      "fr": "enquête"
+    },
+    {
+      "id": "ex-037",
+      "hanzi": "分析",
+      "pinyin": "fēnxī",
+      "fr": "analyse"
+    },
+    {
+      "id": "ex-038",
+      "hanzi": "数据",
+      "pinyin": "shùjù",
+      "fr": "données"
+    },
+    {
+      "id": "ex-039",
+      "hanzi": "风险",
+      "pinyin": "fēngxiǎn",
+      "fr": "risque"
+    },
+    {
+      "id": "ex-040",
+      "hanzi": "战略",
+      "pinyin": "zhànlüè",
+      "fr": "stratégie"
+    },
+    {
+      "id": "ex-041",
+      "hanzi": "领导",
+      "pinyin": "lǐngdǎo",
+      "fr": "diriger"
+    },
+    {
+      "id": "ex-042",
+      "hanzi": "创新",
+      "pinyin": "chuàngxīn",
+      "fr": "innovation"
+    },
+    {
+      "id": "ex-043",
+      "hanzi": "改革",
+      "pinyin": "gǎigé",
+      "fr": "réforme"
+    },
+    {
+      "id": "ex-044",
+      "hanzi": "全球",
+      "pinyin": "quánqiú",
+      "fr": "mondial"
+    },
+    {
+      "id": "ex-045",
+      "hanzi": "能源",
+      "pinyin": "néngyuán",
+      "fr": "ressource énergétique"
+    },
+    {
+      "id": "ex-046",
+      "hanzi": "人口",
+      "pinyin": "rénkǒu",
+      "fr": "population"
+    },
+    {
+      "id": "ex-047",
+      "hanzi": "交流",
+      "pinyin": "jiāoliú",
+      "fr": "échange"
+    },
+    {
+      "id": "ex-048",
+      "hanzi": "传播",
+      "pinyin": "chuánbō",
+      "fr": "diffuser"
+    },
+    {
+      "id": "ex-049",
+      "hanzi": "趋势",
+      "pinyin": "qūshì",
+      "fr": "tendance"
+    },
+    {
+      "id": "ex-050",
+      "hanzi": "挑战",
+      "pinyin": "tiǎozhàn",
+      "fr": "défi"
+    }
+  ],
+  "genius": [
+    {
+      "id": "g-001",
+      "hanzi": "意识",
+      "pinyin": "yìshí",
+      "fr": "conscience"
+    },
+    {
+      "id": "g-002",
+      "hanzi": "存在",
+      "pinyin": "cúnzài",
+      "fr": "exister / existence"
+    },
+    {
+      "id": "g-003",
+      "hanzi": "思想",
+      "pinyin": "sīxiǎng",
+      "fr": "pensée / idée"
+    },
+    {
+      "id": "g-004",
+      "hanzi": "哲学",
+      "pinyin": "zhéxué",
+      "fr": "philosophie"
+    },
+    {
+      "id": "g-005",
+      "hanzi": "意义",
+      "pinyin": "yìyì",
+      "fr": "sens / signification"
+    },
+    {
+      "id": "g-006",
+      "hanzi": "价值",
+      "pinyin": "jiàzhí",
+      "fr": "valeur"
+    },
+    {
+      "id": "g-007",
+      "hanzi": "逻辑",
+      "pinyin": "luójí",
+      "fr": "logique"
+    },
+    {
+      "id": "g-008",
+      "hanzi": "矛盾",
+      "pinyin": "máodùn",
+      "fr": "contradiction"
+    },
+    {
+      "id": "g-009",
+      "hanzi": "现象",
+      "pinyin": "xiànxiàng",
+      "fr": "phénomène"
+    },
+    {
+      "id": "g-010",
+      "hanzi": "本质",
+      "pinyin": "běnzhì",
+      "fr": "essence / nature profonde"
+    },
+    {
+      "id": "g-011",
+      "hanzi": "抽象",
+      "pinyin": "chōuxiàng",
+      "fr": "abstrait"
+    },
+    {
+      "id": "g-012",
+      "hanzi": "具体",
+      "pinyin": "jùtǐ",
+      "fr": "concret / spécifique"
+    },
+    {
+      "id": "g-013",
+      "hanzi": "创造",
+      "pinyin": "chuàngzào",
+      "fr": "créer / création"
+    },
+    {
+      "id": "g-014",
+      "hanzi": "记忆",
+      "pinyin": "jìyì",
+      "fr": "mémoire / souvenir"
+    },
+    {
+      "id": "g-015",
+      "hanzi": "想象",
+      "pinyin": "xiǎngxiàng",
+      "fr": "imaginer / imagination"
+    },
+    {
+      "id": "g-016",
+      "hanzi": "判断",
+      "pinyin": "pànduàn",
+      "fr": "juger / jugement"
+    },
+    {
+      "id": "g-017",
+      "hanzi": "证明",
+      "pinyin": "zhèngmíng",
+      "fr": "prouver / preuve"
+    },
+    {
+      "id": "g-018",
+      "hanzi": "怀疑",
+      "pinyin": "huáiyí",
+      "fr": "douter / soupçonner"
+    },
+    {
+      "id": "g-019",
+      "hanzi": "真理",
+      "pinyin": "zhēnlǐ",
+      "fr": "vérité"
+    },
+    {
+      "id": "g-020",
+      "hanzi": "宇宙",
+      "pinyin": "yǔzhòu",
+      "fr": "univers / cosmos"
+    },
+    {
+      "id": "g-031",
+      "hanzi": "辩证法",
+      "pinyin": "biànzhèngfǎ",
+      "fr": "dialectique"
+    },
+    {
+      "id": "g-032",
+      "hanzi": "命题",
+      "pinyin": "mìngtí",
+      "fr": "proposition"
+    },
+    {
+      "id": "g-033",
+      "hanzi": "演绎",
+      "pinyin": "yǎnyì",
+      "fr": "déduction"
+    },
+    {
+      "id": "g-034",
+      "hanzi": "归纳",
+      "pinyin": "guīnà",
+      "fr": "induction"
+    },
+    {
+      "id": "g-035",
+      "hanzi": "范畴",
+      "pinyin": "fànchóu",
+      "fr": "catégorie"
+    },
+    {
+      "id": "g-036",
+      "hanzi": "客观",
+      "pinyin": "kèguān",
+      "fr": "objectif"
+    },
+    {
+      "id": "g-037",
+      "hanzi": "主观",
+      "pinyin": "zhǔguān",
+      "fr": "subjectif"
+    },
+    {
+      "id": "g-038",
+      "hanzi": "认同",
+      "pinyin": "rèntóng",
+      "fr": "identification"
+    },
+    {
+      "id": "g-039",
+      "hanzi": "动机",
+      "pinyin": "dòngjī",
+      "fr": "motivation"
+    },
+    {
+      "id": "g-040",
+      "hanzi": "秩序",
+      "pinyin": "zhìxù",
+      "fr": "ordre"
+    },
+    {
+      "id": "g-041",
+      "hanzi": "混乱",
+      "pinyin": "hùnluàn",
+      "fr": "désordre"
+    },
+    {
+      "id": "g-042",
+      "hanzi": "演化",
+      "pinyin": "yǎnhuà",
+      "fr": "évolution"
+    },
+    {
+      "id": "g-043",
+      "hanzi": "文明",
+      "pinyin": "wénmíng",
+      "fr": "civilisation"
+    },
+    {
+      "id": "g-044",
+      "hanzi": "智慧",
+      "pinyin": "zhìhuì",
+      "fr": "sagesse"
+    },
+    {
+      "id": "g-045",
+      "hanzi": "理性",
+      "pinyin": "lǐxìng",
+      "fr": "raison"
+    },
+    {
+      "id": "g-046",
+      "hanzi": "感性",
+      "pinyin": "gǎnxìng",
+      "fr": "sensibilité"
+    },
+    {
+      "id": "g-047",
+      "hanzi": "推测",
+      "pinyin": "tuīcè",
+      "fr": "supposer"
+    },
+    {
+      "id": "g-048",
+      "hanzi": "观察",
+      "pinyin": "guānchá",
+      "fr": "observer"
+    },
+    {
+      "id": "g-049",
+      "hanzi": "验证",
+      "pinyin": "yànzhèng",
+      "fr": "vérifier"
+    },
+    {
+      "id": "g-050",
+      "hanzi": "规律",
+      "pinyin": "guīlǜ",
+      "fr": "loi/régularité"
+    }
+  ],
+  "swag": [
+    {
+      "id": "s-001",
+      "hanzi": "潜意识",
+      "pinyin": "qiányìshí",
+      "fr": "subconscient"
+    },
+    {
+      "id": "s-002",
+      "hanzi": "相对论",
+      "pinyin": "xiāngduìlùn",
+      "fr": "théorie de la relativité"
+    },
+    {
+      "id": "s-003",
+      "hanzi": "量子",
+      "pinyin": "liàngzǐ",
+      "fr": "quantique / quantum"
+    },
+    {
+      "id": "s-004",
+      "hanzi": "维度",
+      "pinyin": "wéidù",
+      "fr": "dimension"
+    },
+    {
+      "id": "s-005",
+      "hanzi": "频率",
+      "pinyin": "pínlǜ",
+      "fr": "fréquence"
+    },
+    {
+      "id": "s-006",
+      "hanzi": "能量",
+      "pinyin": "néngliàng",
+      "fr": "énergie"
+    },
+    {
+      "id": "s-007",
+      "hanzi": "意识流",
+      "pinyin": "yìshíliú",
+      "fr": "flux de conscience"
+    },
+    {
+      "id": "s-008",
+      "hanzi": "超现实",
+      "pinyin": "chāoxiànshí",
+      "fr": "surréel / surréalisme"
+    },
+    {
+      "id": "s-009",
+      "hanzi": "象征主义",
+      "pinyin": "xiàngzhēng zhǔyì",
+      "fr": "symbolisme"
+    },
+    {
+      "id": "s-010",
+      "hanzi": "解构",
+      "pinyin": "jiěgòu",
+      "fr": "déconstruction"
+    },
+    {
+      "id": "s-011",
+      "hanzi": "边界",
+      "pinyin": "biānjiè",
+      "fr": "frontière / limite"
+    },
+    {
+      "id": "s-012",
+      "hanzi": "循环",
+      "pinyin": "xúnhuán",
+      "fr": "cycle / boucle"
+    },
+    {
+      "id": "s-013",
+      "hanzi": "共鸣",
+      "pinyin": "gòngmíng",
+      "fr": "résonance"
+    },
+    {
+      "id": "s-014",
+      "hanzi": "幻觉",
+      "pinyin": "huànjué",
+      "fr": "hallucination / illusion"
+    },
+    {
+      "id": "s-015",
+      "hanzi": "启示",
+      "pinyin": "qǐshì",
+      "fr": "révélation / inspiration"
+    },
+    {
+      "id": "s-016",
+      "hanzi": "混沌",
+      "pinyin": "hùndùn",
+      "fr": "chaos"
+    },
+    {
+      "id": "s-017",
+      "hanzi": "秩序",
+      "pinyin": "zhìxù",
+      "fr": "ordre"
+    },
+    {
+      "id": "s-018",
+      "hanzi": "悖论",
+      "pinyin": "bèilùn",
+      "fr": "paradoxe"
+    },
+    {
+      "id": "s-019",
+      "hanzi": "无限",
+      "pinyin": "wúxiàn",
+      "fr": "infini / illimité"
+    },
+    {
+      "id": "s-020",
+      "hanzi": "永恒",
+      "pinyin": "yǒnghéng",
+      "fr": "éternité / éternel"
+    },
+    {
+      "id": "s-031",
+      "hanzi": "道",
+      "pinyin": "dào",
+      "fr": "la Voie"
+    },
+    {
+      "id": "s-032",
+      "hanzi": "阴阳",
+      "pinyin": "yīnyáng",
+      "fr": "yin et yang"
+    },
+    {
+      "id": "s-033",
+      "hanzi": "气",
+      "pinyin": "qì",
+      "fr": "souffle vital"
+    },
+    {
+      "id": "s-034",
+      "hanzi": "内丹",
+      "pinyin": "nèidān",
+      "fr": "alchimie interne"
+    },
+    {
+      "id": "s-035",
+      "hanzi": "八卦",
+      "pinyin": "bāguà",
+      "fr": "bagua"
+    },
+    {
+      "id": "s-036",
+      "hanzi": "易经",
+      "pinyin": "Yìjīng",
+      "fr": "Livre des Mutations"
+    },
+    {
+      "id": "s-037",
+      "hanzi": "无为",
+      "pinyin": "wúwéi",
+      "fr": "non-agir"
+    },
+    {
+      "id": "s-038",
+      "hanzi": "天人合一",
+      "pinyin": "tiānrénhéyī",
+      "fr": "union homme-ciel"
+    },
+    {
+      "id": "s-039",
+      "hanzi": "空性",
+      "pinyin": "kōngxìng",
+      "fr": "vacuité"
+    },
+    {
+      "id": "s-040",
+      "hanzi": "轮回",
+      "pinyin": "lúnhuí",
+      "fr": "réincarnation"
+    },
+    {
+      "id": "s-041",
+      "hanzi": "业力",
+      "pinyin": "yèlì",
+      "fr": "karma"
+    },
+    {
+      "id": "s-042",
+      "hanzi": "禅定",
+      "pinyin": "chándìng",
+      "fr": "méditation profonde"
+    },
+    {
+      "id": "s-043",
+      "hanzi": "顿悟",
+      "pinyin": "dùnwù",
+      "fr": "éveil soudain"
+    },
+    {
+      "id": "s-044",
+      "hanzi": "太极",
+      "pinyin": "tàijí",
+      "fr": "taiji"
+    },
+    {
+      "id": "s-045",
+      "hanzi": "风水",
+      "pinyin": "fēngshuǐ",
+      "fr": "feng shui"
+    },
+    {
+      "id": "s-046",
+      "hanzi": "灵魂",
+      "pinyin": "línghún",
+      "fr": "âme"
+    },
+    {
+      "id": "s-047",
+      "hanzi": "神识",
+      "pinyin": "shénshí",
+      "fr": "conscience spirituelle"
+    },
+    {
+      "id": "s-048",
+      "hanzi": "幻象",
+      "pinyin": "huànxiàng",
+      "fr": "illusion"
+    },
+    {
+      "id": "s-049",
+      "hanzi": "命运",
+      "pinyin": "mìngyùn",
+      "fr": "destin"
+    },
+    {
+      "id": "s-050",
+      "hanzi": "超脱",
+      "pinyin": "chāotuō",
+      "fr": "transcendance"
+    }
+  ]
+}
