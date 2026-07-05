@@ -1,98 +1,111 @@
 # Hanzi App 🇨🇳
 
-A modern application for learning Mandarin Chinese through active recall, reading practice and spaced repetition.
+Modern Mandarin learning application built around **active recall, contextual reading and progressive vocabulary acquisition**.
 
-Hanzi App is designed to help beginners and intermediate learners master Chinese characters, vocabulary and short texts with an intuitive and distraction-free interface.
+Hanzi App helps learners move naturally from their first Chinese characters to reading complete stories through a clean, distraction-free interface.
 
 ---
 
 <p align="center">
-  <img src="docs/demo.gif" alt="Hanzi App Demo" height="700">
+  <img src="docs/demo.gif" alt="Hanzi App Demo" width="100%">
 </p>
 
-## Features
+---
 
-### 📖 Learn Chinese Vocabulary
+# Features
 
-- Beginner to advanced vocabulary
-- HSK-inspired progression
-- Active recall exercises
-- Instant feedback
-- Progress tracking
+- 📖 Vocabulary from beginner to advanced
+- ✍ Character writing practice
+- 📚 Reading mode with graded texts
+- 🎯 Active recall quizzes
+- 📊 Learning statistics
+- 🌙 Clean dark interface
+- 📱 Android support via Capacitor
+- ⚡ Instant feedback
 
 ---
 
-### ✍ Writing Practice
-
-- Type Chinese characters
-- Character recognition
-- Immediate correction
-- "I don't know" mode
-- Success statistics
-
----
-
-### 📚 Reading Practice
-
-- Chinese Breeze inspired texts
-- Sentence-by-sentence learning
-- Color-coded vocabulary
-- Chinese + French translation
-- Progressive difficulty
-
----
-
-### 📊 Learning Statistics
-
-- Success rate
-- Reading progress
-- Writing accuracy
-- Vocabulary mastery
-- Local progress saving
-
----
-
-### 🎨 Modern Interface
-
-- Responsive design
-- Mobile friendly
-- Dark mode
-- Smooth animations
-- Clean user interface
-
----
-
-## Current Content
-
-- ✅ Beginner vocabulary
-- ✅ Intermediate vocabulary
-- ✅ Advanced vocabulary
-- ✅ Chinese Breeze readings
-- 🚧 More reading material coming soon
-
----
-
-## Technologies
+# Tech Stack
 
 - React
 - Vite
 - JavaScript
 - CSS
-- Capacitor (Android)
+- Capacitor
+- Android
 
 ---
 
-## Installation
+# Learning Pipeline
+
+```
+Vocabulary
+      │
+      ▼
+Recognition
+      │
+      ▼
+Writing Practice
+      │
+      ▼
+Reading Practice
+      │
+      ▼
+Statistics
+      │
+      ▼
+Long-term Memorization
+```
+
+---
+
+# Current Content
+
+## Vocabulary
+
+- ✅ Beginner
+- ✅ Intermediate
+- ✅ Advanced
+
+## Reading
+
+- ✅ Chinese Breeze inspired stories
+- 🚧 More graded readers coming soon
+
+## Statistics
+
+- Success rate
+- Vocabulary mastery
+- Writing accuracy
+- Reading progression
+
+---
+
+# Roadmap
+
+## Learning
+
+- [ ] Stroke order animations
+- [ ] Character decomposition
+- [ ] Audio pronunciation
+- [ ] Grammar lessons
+- [ ] Daily challenges
+
+## Application
+
+- [ ] Offline mode
+- [ ] Cloud synchronization
+- [ ] Better Android experience
+- [ ] Multiple learning profiles
+
+---
+
+# Installation
 
 Clone the repository
 
 ```bash
 git clone https://github.com/princessnvidia/hanzi-app.git
-```
-
-Enter the project
-
-```bash
 cd hanzi-app
 ```
 
@@ -102,7 +115,7 @@ Install dependencies
 npm install
 ```
 
-Start the development server
+Start development
 
 ```bash
 npm run dev
@@ -110,7 +123,7 @@ npm run dev
 
 ---
 
-## Build
+# Build
 
 Web
 
@@ -127,30 +140,22 @@ npx cap open android
 
 ---
 
-## Roadmap
+# Philosophy
 
-- [ ] Stroke order animations
-- [ ] Character decomposition
-- [ ] Audio pronunciation
-- [ ] Pinyin toggle
-- [ ] Grammar lessons
-- [ ] Daily challenges
-- [ ] Spaced repetition algorithm
-- [ ] Offline mode
-- [ ] Cloud synchronization
+Learning Chinese should feel like **discovering a language**, not completing flashcards.
+
+Hanzi App combines active recall, contextual reading and progressive repetition to help learners naturally recognize, remember and understand Chinese characters over time.
+
+The long-term goal is to provide a complete learning journey—from first words to reading entire stories—while keeping the experience simple, visual and enjoyable.
 
 ---
 
-## Philosophy
+# Status
 
-Learning Chinese should be enjoyable.
-
-Hanzi App focuses on understanding and memorization through repeated exposure, active recall and contextual reading instead of passive memorization.
-
-The application is designed to grow alongside the learner, from the first Chinese characters to reading complete stories.
+🚧 Active Development
 
 ---
 
-## License
+# License
 
 MIT License
